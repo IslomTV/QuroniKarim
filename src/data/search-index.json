@@ -1,0 +1,2794 @@
+{
+  "reciters": [
+    {
+      "slug": "abdul-rahman-musaad",
+      "name": "Abdul Rahman Musaad",
+      "arabicName": "عبد الرحمن مسعد",
+      "country": "Misr",
+      "photo": "/images/reciters/abdul-rahman-musaad.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 487761,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-kaseb",
+      "name": "Ahmed Kaseb",
+      "arabicName": "أحمد كاسب",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-kaseb.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 183540,
+      "isTopReciter": true
+    },
+    {
+      "slug": "alsaid-saeed",
+      "name": "Alsaid Saeed",
+      "arabicName": "السيد سعيد",
+      "country": "Misr",
+      "photo": "/images/reciters/alsaid-saeed.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 172467,
+      "isTopReciter": true
+    },
+    {
+      "slug": "omar-diaa-al-din",
+      "name": "Omar Diaa al-Din",
+      "arabicName": "عمر ضياء الدين",
+      "country": "Misr",
+      "photo": "/images/reciters/omar-diaa-al-din.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 158597,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-siddiq-al-minshawi",
+      "name": "Muhammad Siddiq Al Minşawi",
+      "arabicName": "محمد صديق المنشاوي",
+      "country": "Misr",
+      "photo": "/images/reciters/muhammad-siddiq-al-minshawi.webp",
+      "tags": [
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 154148,
+      "isTopReciter": true
+    },
+    {
+      "slug": "badr-al-turki",
+      "name": "Badr Al Turki",
+      "arabicName": "بدر التركي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/badr-al-turki.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 149644,
+      "isTopReciter": true
+    },
+    {
+      "slug": "alaa-aql",
+      "name": "Alaa Aql",
+      "arabicName": "علاء عقل",
+      "country": "Misr",
+      "photo": "/images/reciters/alaa-aql.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 135225,
+      "isTopReciter": true
+    },
+    {
+      "slug": "yasser-al-dosary",
+      "name": "Yasser Al Dosary",
+      "arabicName": "ياسر الدوسري",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/yasser-al-dosary.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari"
+      ],
+      "totalListens": 125486,
+      "isTopReciter": true
+    },
+    {
+      "slug": "islam-sobhi",
+      "name": "Islam Sobhi",
+      "arabicName": "إسلام صبحي",
+      "country": "Misr",
+      "photo": "/images/reciters/islam-sobhi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 122030,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-abadh",
+      "name": "Muhammad Abadh",
+      "arabicName": "محمد عبادة",
+      "country": "Misr",
+      "photo": "/images/reciters/muhammad-abadh.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 89578,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-basit-abdul-samad",
+      "name": "Abdul Basit Abdul Samad",
+      "arabicName": "عبد الباسط عبد الصمد",
+      "country": "Misr",
+      "photo": "/images/reciters/abdul-basit-abdul-samad.webp",
+      "tags": [
+        "Noyob qiroatlar",
+        "Buyuk ustozlar",
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 78430,
+      "isTopReciter": true
+    },
+    {
+      "slug": "haitham-al-dukhin",
+      "name": "Haitham Al Dukhin",
+      "arabicName": "هيثم الدخين",
+      "country": "Yaman",
+      "photo": "/images/reciters/haitham-al-dukhin.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 70803,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mahmoud-khalil-al-hosary",
+      "name": "Mahmoud Khalil Al Hosary",
+      "arabicName": "محمود خليل الحصري",
+      "country": "Misr",
+      "photo": "/images/reciters/mahmoud-khalil-al-hosary.webp",
+      "tags": [
+        "Noyob qiroatlar",
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 65132,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-nasr",
+      "name": "Ahmed Abdel Razeq Nasr",
+      "arabicName": "أحمد عبد الرازق نصر",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-nasr.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 62476,
+      "isTopReciter": true
+    },
+    {
+      "slug": "salman-obaid-al-mutairi",
+      "name": "Salman Obaid Al Mutairi",
+      "arabicName": "سلمان عبيد المطيري",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/salman-obaid-al-mutairi.webp",
+      "tags": [],
+      "totalListens": 60118,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mansour-al-salmi",
+      "name": "Mansour Al Salmi",
+      "arabicName": "منصور السالمي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/mansour-al-salmi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Ramazon qiroatlari"
+      ],
+      "totalListens": 56840,
+      "isTopReciter": true
+    },
+    {
+      "slug": "maher-almaikulai",
+      "name": "Maher Almaikulai",
+      "arabicName": "ماهر المعيقلي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/maher-almaikulai.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 47169,
+      "isTopReciter": true
+    },
+    {
+      "slug": "saad-al-ghamdi",
+      "name": "Saad Al Ghamdi",
+      "arabicName": "سعد الغامدي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/saad-al-ghamdi.webp",
+      "tags": [],
+      "totalListens": 43794,
+      "isTopReciter": true
+    },
+    {
+      "slug": "khalid-al-galilee",
+      "name": "Khalid Al Galilee",
+      "arabicName": "خالد الجليل",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/khalid-al-galilee.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari",
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 43332,
+      "isTopReciter": true
+    },
+    {
+      "slug": "kaml-yusuf-al-bhtymy",
+      "name": "Kaml Yusuf Al-Bhtymy",
+      "arabicName": "كامل يوسف البهتيمي",
+      "country": "Misr",
+      "photo": "/images/reciters/kaml-yusuf-al-bhtymy.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 42818,
+      "isTopReciter": false
+    },
+    {
+      "slug": "anas-bin-saleh-al-malik",
+      "name": "Anas Bin Saleh Al-Malik",
+      "arabicName": "أنس بن صالح المالك",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/anas-bin-saleh-al-malik.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 42558,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohammed-othman-haj-ali",
+      "name": "Mohammed Othman Haj Ali",
+      "arabicName": "محمد عثمان حاج علي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/mohammed-othman-haj-ali.webp",
+      "tags": [],
+      "totalListens": 40461,
+      "isTopReciter": false
+    },
+    {
+      "slug": "hazaa-al-balushi",
+      "name": "Hazaa Al Baluşi",
+      "arabicName": "هزاع البلوشي",
+      "country": "Ummon",
+      "photo": "/images/reciters/hazaa-al-balushi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 38537,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mahmoud-ali-al-banna",
+      "name": "Mahmoud Ali Al Banna",
+      "arabicName": "محمود علي البنا",
+      "country": "Misr",
+      "photo": "/images/reciters/mahmoud-ali-al-banna.webp",
+      "tags": [
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 37682,
+      "isTopReciter": false
+    },
+    {
+      "slug": "rayyan-al-muhaisani",
+      "name": "Rayyan Al-Muhaisani",
+      "arabicName": "ريان المحيسني",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/rayyan-al-muhaisani.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 37327,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-aziz-shym",
+      "name": "Abdul Aziz Suhaim",
+      "arabicName": "عبد العزيز سحيم",
+      "country": "Jazoir",
+      "photo": "/images/reciters/abdul-aziz-shym.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 35610,
+      "isTopReciter": true
+    },
+    {
+      "slug": "osama-muhammad-abu-zaid",
+      "name": "Osama Muhammad Abu Zaid",
+      "arabicName": "أسامة محمد أبو زيد",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/osama-muhammad-abu-zaid.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 35133,
+      "isTopReciter": true
+    },
+    {
+      "slug": "saud-al-shuraim",
+      "name": "Saud Al Şuraim",
+      "arabicName": "سعود الشريم",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/saud-al-shuraim.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari"
+      ],
+      "totalListens": 34864,
+      "isTopReciter": false
+    },
+    {
+      "slug": "noreen-muhammad-siddiq",
+      "name": "Noreen Muhammad Siddiq",
+      "arabicName": "نورين محمد صديق",
+      "country": "Sudan",
+      "photo": "/images/reciters/noreen-muhammad-siddiq.webp",
+      "tags": [],
+      "totalListens": 33540,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-al-nafis",
+      "name": "Ahmed Al Nafis",
+      "arabicName": "أحمد النفيس",
+      "country": "Quvayt",
+      "photo": "/images/reciters/ahmed-al-nafis.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 33386,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mishary-alafasy",
+      "name": "Mişari Raşid al-Afasy",
+      "arabicName": "مشاري راشد العفاسي",
+      "country": "Quvayt",
+      "photo": "/images/reciters/mishary-alafasy.webp",
+      "tags": [],
+      "totalListens": 33071,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-bin-talib-hamid",
+      "name": "Ahmed bin Talib Hamid",
+      "arabicName": "أحمد بن طالب حميد",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ahmed-bin-talib-hamid.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 31999,
+      "isTopReciter": true
+    },
+    {
+      "slug": "youssef-al-aidarous",
+      "name": "Youssef Al Aidarous",
+      "arabicName": "يوسف العيدروس",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/youssef-al-aidarous.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 30839,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-rashid-sufi",
+      "name": "Abdul Raşid Sufi",
+      "arabicName": "عبد الرشيد صوفي",
+      "country": "Qatar",
+      "photo": "/images/reciters/abdul-rashid-sufi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 30836,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohamed-ellhidan",
+      "name": "Mohamed Ellhidan",
+      "arabicName": "محمد اللحيدان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/mohamed-ellhidan.webp",
+      "tags": [],
+      "totalListens": 30023,
+      "isTopReciter": false
+    },
+    {
+      "slug": "muhammad-mahmoud-al-tablawi",
+      "name": "Muhammad Mahmoud Al Tablawi",
+      "arabicName": "محمد محمود الطبلاوي",
+      "country": "Misr",
+      "photo": "/images/reciters/muhammad-mahmoud-al-tablawi.webp",
+      "tags": [
+        "Buyuk ustozlar",
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 29086,
+      "isTopReciter": false
+    },
+    {
+      "slug": "alsayed-metwally",
+      "name": "Alsayed Metwally",
+      "arabicName": "السيد متولي",
+      "country": "Misr",
+      "photo": "/images/reciters/alsayed-metwally.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 28714,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abu-al-ainin-shisha",
+      "name": "Abu Al Ainin Şişa",
+      "arabicName": "أبو العينين شعيشع",
+      "country": "Misr",
+      "photo": "/images/reciters/abu-al-ainin-shisha.webp",
+      "tags": [],
+      "totalListens": 24360,
+      "isTopReciter": false
+    },
+    {
+      "slug": "naser-al-katamy",
+      "name": "Naser Al Katamy",
+      "arabicName": "ناصر القطامي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/naser-al-katamy.webp",
+      "tags": [],
+      "totalListens": 24192,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohammed-alfaqih",
+      "name": "Mohammed Alfaqih",
+      "arabicName": "محمد الفقيه",
+      "country": "Yaman",
+      "photo": "/images/reciters/mohammed-alfaqih.webp",
+      "tags": [],
+      "totalListens": 23488,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-al-qarafi",
+      "name": "Abdullah Al Qarafi",
+      "arabicName": "عبد الله عبد المحسن القرافي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-qarafi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 23396,
+      "isTopReciter": true
+    },
+    {
+      "slug": "asim-al-luhaidan",
+      "name": "Asim Al Luhaidan",
+      "arabicName": "عاصم اللحيدان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/asim-al-luhaidan.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari"
+      ],
+      "totalListens": 23171,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-al-agamy",
+      "name": "Ahmed Al Agamy",
+      "arabicName": "أحمد بن علي العجمي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ahmed-al-agamy.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 20880,
+      "isTopReciter": true
+    },
+    {
+      "slug": "amer-al-kazemi",
+      "name": "Amer Al Kazemi",
+      "arabicName": "عامر الكاظمي",
+      "country": "Iroq",
+      "photo": "/images/reciters/amer-al-kazemi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 20354,
+      "isTopReciter": true
+    },
+    {
+      "slug": "hassan-saleh",
+      "name": "Hassan Mohamed Saleh",
+      "arabicName": "حسن محمد صالح",
+      "country": "Misr",
+      "photo": "/images/reciters/hassan-saleh.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 20012,
+      "isTopReciter": true
+    },
+    {
+      "slug": "bandar-balila",
+      "name": "Bandar Balila",
+      "arabicName": "بندر بليلة",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/bandar-balila.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari",
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 19955,
+      "isTopReciter": true
+    },
+    {
+      "slug": "yousef-bin-muhammad-al-saqir",
+      "name": "Yousef Bin Muhammad Al-Saqir",
+      "arabicName": "يوسف بن محمد الصقير",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/yousef-bin-muhammad-al-saqir.webp",
+      "tags": [],
+      "totalListens": 19705,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abu-bakr-al-shatri",
+      "name": "Abu Bakr Al Şatri",
+      "arabicName": "أبو بكر الشاطري",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abu-bakr-al-shatri.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari"
+      ],
+      "totalListens": 18220,
+      "isTopReciter": true
+    },
+    {
+      "slug": "yusuf-kalo",
+      "name": "Yusuf Kalo",
+      "arabicName": "يوسف كالو",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/yusuf-kalo.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 17518,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohamed-refaat",
+      "name": "Mohamed Refaat",
+      "arabicName": "محمد رفعت",
+      "country": "Misr",
+      "photo": "/images/reciters/mohamed-refaat.webp",
+      "tags": [
+        "Noyob qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 17347,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ali-jaber",
+      "name": "Ali Jaber",
+      "arabicName": "علي جابر",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ali-jaber.webp",
+      "tags": [
+        "Buyuk ustozlar",
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 17272,
+      "isTopReciter": false
+    },
+    {
+      "slug": "idris-abkar",
+      "name": "Idris Abkar",
+      "arabicName": "إدريس أبكر",
+      "country": "Yaman",
+      "photo": "/images/reciters/idris-abkar.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 17103,
+      "isTopReciter": true
+    },
+    {
+      "slug": "bilal-saif",
+      "name": "Bilal Saif",
+      "arabicName": "بلال سيف",
+      "country": "Misr",
+      "photo": "/images/reciters/bilal-saif.webp",
+      "tags": [],
+      "totalListens": 16904,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mukhtar-al-hajj",
+      "name": "Mukhtar Al-Hajj",
+      "arabicName": "مختار الحاج",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/mukhtar-al-hajj.webp",
+      "tags": [],
+      "totalListens": 16615,
+      "isTopReciter": false
+    },
+    {
+      "slug": "rashid-bin-fahd-al-hulaiba",
+      "name": "Raşid Bin Fahd Al-Hulaiba",
+      "arabicName": "راشد بن فهد الحليبة",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/rashid-bin-fahd-al-hulaiba.webp",
+      "tags": [],
+      "totalListens": 16577,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-galal-al-shalabi",
+      "name": "Ahmed Galal Al Şalabi",
+      "arabicName": "أحمد جلال الشلبي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/ahmed-galal-al-shalabi.webp",
+      "tags": [],
+      "totalListens": 16431,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-al-musa",
+      "name": "Abdullah Al Musa",
+      "arabicName": "عبد الله الموسي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-musa.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 15279,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdulbadi-ghailan",
+      "name": "Abdulbadi Ghailan",
+      "arabicName": "عبد البديع غيلان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdulbadi-ghailan.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 15219,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdulrahman-al-zawawi",
+      "name": "Abdulrahman Al-Zawawi",
+      "arabicName": "عبد الرحمن الزواوي",
+      "country": "Misr",
+      "photo": "/images/reciters/abdulrahman-al-zawawi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 14943,
+      "isTopReciter": true
+    },
+    {
+      "slug": "raghib-mostafa-ghalwash",
+      "name": "Raghib Mostafa Ghalwaş",
+      "arabicName": "راغب مصطفى غلوش",
+      "country": "Misr",
+      "photo": "/images/reciters/raghib-mostafa-ghalwash.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Noyob qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 14901,
+      "isTopReciter": true
+    },
+    {
+      "slug": "fares-abbad",
+      "name": "Fares Abbad",
+      "arabicName": "فارس عباد",
+      "country": "Yaman",
+      "photo": "/images/reciters/fares-abbad.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 13724,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohamed-abdo",
+      "name": "Mohamed Abdo",
+      "arabicName": "محمد عبده",
+      "country": "Misr",
+      "photo": "/images/reciters/mohamed-abdo.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 13659,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ibrahim-al-dosari",
+      "name": "Ibrahim Al Dosari",
+      "arabicName": "إبراهيم الدوسري",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ibrahim-al-dosari.webp",
+      "tags": [],
+      "totalListens": 13602,
+      "isTopReciter": false
+    },
+    {
+      "slug": "younes-souilass",
+      "name": "Younes Souilass",
+      "arabicName": "يونس اسويلص",
+      "country": "Marokaş",
+      "photo": "/images/reciters/younes-souilass.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 13559,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-al-arabi",
+      "name": "Ahmed Al Arabi",
+      "arabicName": "أحمد العربي",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-al-arabi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 13352,
+      "isTopReciter": true
+    },
+    {
+      "slug": "faleh-al-hajri",
+      "name": "Faleh Al Hajri",
+      "arabicName": "فالح الهاجري",
+      "country": "Qatar",
+      "photo": "/images/reciters/faleh-al-hajri.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 13275,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mahmoud-abulwafa-alsaedi",
+      "name": "Mahmoud Abulwafa Alsaedi",
+      "arabicName": "محمود أبو الوفا الصعيدي",
+      "country": "Misr",
+      "photo": "/images/reciters/mahmoud-abulwafa-alsaedi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 12740,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mustafa-khamis",
+      "name": "Mustafa Khamis",
+      "arabicName": "مصطفى خميس",
+      "country": "Misr",
+      "photo": "/images/reciters/mustafa-khamis.webp",
+      "tags": [],
+      "totalListens": 12614,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mohamed-ayoub",
+      "name": "Mohamed Ayoub",
+      "arabicName": "محمد أيوب",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/mohamed-ayoub.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haram imomlari",
+        "Haramayn qiroatlari"
+      ],
+      "totalListens": 12603,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-diban",
+      "name": "Ahmed Diban",
+      "arabicName": "أحمد ديبان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ahmed-diban.webp",
+      "tags": [],
+      "totalListens": 12549,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-al-ghazali",
+      "name": "Muhammad Al Ghazali",
+      "arabicName": "محمد الغزالي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/muhammad-al-ghazali.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 12442,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mustafa-ismail",
+      "name": "Mustafa Ismail",
+      "arabicName": "مصطفى إسماعيل",
+      "country": "Misr",
+      "photo": "/images/reciters/mustafa-ismail.webp",
+      "tags": [
+        "Buyuk ustozlar",
+        "Xuşuʼli qiroatlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 12339,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-al-saeed-mandour",
+      "name": "Ahmed Al Saeed Mandour",
+      "arabicName": "أحمد السعيد مندور",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-al-saeed-mandour.webp",
+      "tags": [],
+      "totalListens": 12325,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohamed-salem-ould-zine",
+      "name": "Mohamed Salem Ould Zine",
+      "arabicName": "محمد سالم ولد زين",
+      "country": "Mavritaniya",
+      "photo": "/images/reciters/mohamed-salem-ould-zine.webp",
+      "tags": [],
+      "totalListens": 11952,
+      "isTopReciter": false
+    },
+    {
+      "slug": "al-sudais-and-al-shuraim",
+      "name": "Al-Sudais and Al-Şuraim",
+      "arabicName": "السديس والشريم",
+      "country": "Saudiya Arabistoni",
+      "photo": null,
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haram imomlari",
+        "Haramayn qiroatlari",
+        "Ramazon qiroatlari"
+      ],
+      "totalListens": 11825,
+      "isTopReciter": false
+    },
+    {
+      "slug": "salah-boukhatir",
+      "name": "Salah Boukhatir",
+      "arabicName": "صلاح بوخاطر",
+      "country": "Birlaşgan Arab Amirliklari",
+      "photo": "/images/reciters/salah-boukhatir.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 11486,
+      "isTopReciter": true
+    },
+    {
+      "slug": "hisham-al-haraz",
+      "name": "Hişam Al Haraz",
+      "arabicName": "هشام الهراز",
+      "country": "Marokaş",
+      "photo": "/images/reciters/hisham-al-haraz.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 11294,
+      "isTopReciter": true
+    },
+    {
+      "slug": "said-dabbah",
+      "name": "Said Dabbah",
+      "arabicName": "سعيد دباح",
+      "country": "Jazoir",
+      "photo": "/images/reciters/said-dabbah.webp",
+      "tags": [],
+      "totalListens": 10977,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-al-matroud",
+      "name": "Abdullah Al Matroud",
+      "arabicName": "عبد الله المطرود",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-matroud.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 10888,
+      "isTopReciter": true
+    },
+    {
+      "slug": "hassan-al-wajdi",
+      "name": "Hassan Al Wajdi",
+      "arabicName": "حسن الواجدي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/hassan-al-wajdi.webp",
+      "tags": [],
+      "totalListens": 10805,
+      "isTopReciter": false
+    },
+    {
+      "slug": "al-shahat-muhammad-anwar",
+      "name": "Al Şahat Muhammad Anwar",
+      "arabicName": "الشحات محمد أنور",
+      "country": "Misr",
+      "photo": "/images/reciters/al-shahat-muhammad-anwar.webp",
+      "tags": [
+        "Noyob qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 10329,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ali-abdul-rahman-al-hudhaifi",
+      "name": "Ali Abdul Rahman Al Hudhaifi",
+      "arabicName": "علي عبد الرحمن الحذيفي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ali-abdul-rahman-al-hudhaifi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 10065,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-rahman-al-majid",
+      "name": "Abdul Rahman Al Majid",
+      "arabicName": "عبد الرحمن الماجد",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdul-rahman-al-majid.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 10040,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-ahmed-shbyb",
+      "name": "Muhammad Ahmed Şabib",
+      "arabicName": "محمد أحمد شبيب",
+      "country": "Misr",
+      "photo": "/images/reciters/muhammad-ahmed-shbyb.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 10022,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdul-rahman-al-sudais",
+      "name": "Abdul Rahman Al-Sudais",
+      "arabicName": "عبد الرحمن السديس",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdul-rahman-al-sudais.webp",
+      "tags": [
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 9520,
+      "isTopReciter": true
+    },
+    {
+      "slug": "haitham-al-jadaani",
+      "name": "Haitham Al Jadaani",
+      "arabicName": "هيثم الجدعاني",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/haitham-al-jadaani.webp",
+      "tags": [],
+      "totalListens": 9292,
+      "isTopReciter": true
+    },
+    {
+      "slug": "okasha-kameny",
+      "name": "Okaşa Kameny",
+      "arabicName": "عكاشة كميني",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/okasha-kameny.webp",
+      "tags": [],
+      "totalListens": 9275,
+      "isTopReciter": false
+    },
+    {
+      "slug": "al-zein-muhammad-ahmed",
+      "name": "Al Zein Muhammad Ahmed",
+      "arabicName": "الزين محمد أحمد",
+      "country": "Sudan",
+      "photo": "/images/reciters/al-zein-muhammad-ahmed.webp",
+      "tags": [],
+      "totalListens": 9189,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-abdullah-al-qlyb",
+      "name": "Ahmed Abdullah Al-Qlyb",
+      "arabicName": "أحمد عبد الله القليب",
+      "country": "Liviya",
+      "photo": "/images/reciters/ahmed-abdullah-al-qlyb.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 9187,
+      "isTopReciter": true
+    },
+    {
+      "slug": "fatih-sefercik",
+      "name": "Fatih Sefercik",
+      "arabicName": "فاتح سفرجيك",
+      "country": "Bosniya va Gertsegovina",
+      "photo": "/images/reciters/fatih-sefercik.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 8989,
+      "isTopReciter": true
+    },
+    {
+      "slug": "rashid-ahmed-al-arkani",
+      "name": "Raşid Ahmed Al Arkani",
+      "arabicName": "راشد أحمد الأركاني",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/rashid-ahmed-al-arkani.webp",
+      "tags": [],
+      "totalListens": 8793,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ayman-sweid",
+      "name": "Ayman Sweid",
+      "arabicName": "أيمن سويد",
+      "country": "Suriya",
+      "photo": "/images/reciters/ayman-sweid.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 8665,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-al-juhani",
+      "name": "Abdullah Al Juhani",
+      "arabicName": "عبد الله عواد الجهني",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-juhani.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 8314,
+      "isTopReciter": true
+    },
+    {
+      "slug": "jaafar-al-saadi",
+      "name": "Jaafar Al Saadi",
+      "arabicName": "جعفر السعدي",
+      "country": "Marokaş",
+      "photo": "/images/reciters/jaafar-al-saadi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 8286,
+      "isTopReciter": true
+    },
+    {
+      "slug": "slman-al-atyby",
+      "name": "Slman Al-Atyby",
+      "arabicName": "سلمان العتيبي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/slman-al-atyby.webp",
+      "tags": [],
+      "totalListens": 8091,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-saleh-rajab",
+      "name": "Ahmed Saleh Rajab",
+      "arabicName": "أحمد صالح رجب",
+      "country": "Liviya",
+      "photo": "/images/reciters/ahmed-saleh-rajab.webp",
+      "tags": [],
+      "totalListens": 8056,
+      "isTopReciter": false
+    },
+    {
+      "slug": "basl-mwns",
+      "name": "Basel Mounes",
+      "arabicName": "باسل مؤنس",
+      "country": "Misr",
+      "photo": "/images/reciters/basl-mwns.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7827,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ezzedine-al-awami",
+      "name": "Ezzedine Al Awami",
+      "arabicName": "عز الدين العوامي",
+      "country": "Misr",
+      "photo": "/images/reciters/ezzedine-al-awami.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7763,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdullah-al-khalaf",
+      "name": "Abdullah Al Khalaf",
+      "arabicName": "عبد الله الخلف",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-khalaf.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7706,
+      "isTopReciter": true
+    },
+    {
+      "slug": "antar-said-muslim",
+      "name": "Antar Said Muslim",
+      "arabicName": "عنتر سعيد مسلم",
+      "country": "Misr",
+      "photo": "/images/reciters/antar-said-muslim.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 7561,
+      "isTopReciter": true
+    },
+    {
+      "slug": "raad-al-kurdi",
+      "name": "Raad Al Kurdi",
+      "arabicName": "رعد الكردي",
+      "country": "Iroq",
+      "photo": "/images/reciters/raad-al-kurdi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7554,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdulaziz-shukri",
+      "name": "Abdulaziz Şukri",
+      "arabicName": "عبد العزيز شوكري",
+      "country": "Jazoir",
+      "photo": "/images/reciters/abdulaziz-shukri.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7477,
+      "isTopReciter": true
+    },
+    {
+      "slug": "sayed-al-naqshbandi",
+      "name": "Sayed Al Naqşbandi",
+      "arabicName": "سيد النقشبندي",
+      "country": "Misr",
+      "photo": "/images/reciters/sayed-al-naqshbandi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Noyob qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 7222,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-dybyrwf",
+      "name": "Muhammad Debirov",
+      "arabicName": "محمد ديبيروف",
+      "country": "Ozarbayjon",
+      "photo": "/images/reciters/muhammad-dybyrwf.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 7099,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-wali-al-arkany",
+      "name": "Abdul Wali Al Arkany",
+      "arabicName": "عبد الولي الأركاني",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdul-wali-al-arkany.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 6897,
+      "isTopReciter": true
+    },
+    {
+      "slug": "rajab-shaaban-sharaf",
+      "name": "Rajab Şaaban Şaraf",
+      "arabicName": "رجب شعبان شرف",
+      "country": "Misr",
+      "photo": "/images/reciters/rajab-shaaban-sharaf.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 6883,
+      "isTopReciter": true
+    },
+    {
+      "slug": "faisal-muhammad",
+      "name": "Faisal Muhammad",
+      "arabicName": "فيصل محمد",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/faisal-muhammad.webp",
+      "tags": [],
+      "totalListens": 6639,
+      "isTopReciter": false
+    },
+    {
+      "slug": "razgar-muhammad-al-kurdi",
+      "name": "Razgar Muhammad Al-Kurdi",
+      "arabicName": "رزكار محمد الكردي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/razgar-muhammad-al-kurdi.webp",
+      "tags": [],
+      "totalListens": 6636,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-kamel",
+      "name": "Abdullah Kamel",
+      "arabicName": "عبد الله كامل",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/abdullah-kamel.webp",
+      "tags": [],
+      "totalListens": 6608,
+      "isTopReciter": false
+    },
+    {
+      "slug": "anas-al-emadi",
+      "name": "Anas Al Emadi",
+      "arabicName": "أنس العمادي",
+      "country": "Bahrayn",
+      "photo": "/images/reciters/anas-al-emadi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 6511,
+      "isTopReciter": false
+    },
+    {
+      "slug": "majed-al-zamil",
+      "name": "Majed Al Zamil",
+      "arabicName": "ماجد عبد الله الزامل",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/majed-al-zamil.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 6376,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdullah-al-buaijan",
+      "name": "Abdullah Al Buaijan",
+      "arabicName": "عبد الله البعيجان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-al-buaijan.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 6203,
+      "isTopReciter": true
+    },
+    {
+      "slug": "immas-of-al-masjed-al-haram",
+      "name": "Immas of Al Masjed Al Haram",
+      "arabicName": "أئمة الحرم المكي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/immas-of-al-masjed-al-haram.webp",
+      "tags": [
+        "Haram imomlari",
+        "Haramayn qiroatlari"
+      ],
+      "totalListens": 6157,
+      "isTopReciter": false
+    },
+    {
+      "slug": "hamzah-elhabashy",
+      "name": "Hamzah Elhabaşy",
+      "arabicName": "حمزة محمد الحبشي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/hamzah-elhabashy.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 6069,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-khaleq-attia",
+      "name": "Abdul khaleq Attia",
+      "arabicName": "عبد الخالق عطية",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/abdul-khaleq-attia.webp",
+      "tags": [],
+      "totalListens": 5700,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdul-malik-al-masry",
+      "name": "Abdul Malik Al Masry",
+      "arabicName": "عبد الملك المصري",
+      "country": "Misr",
+      "photo": "/images/reciters/abdul-malik-al-masry.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 5594,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdul-hamid-al-qryw",
+      "name": "Abdul-Hamid Al-Qryw",
+      "arabicName": "عبد الحميد القريو",
+      "country": "Liviya",
+      "photo": "/images/reciters/abdul-hamid-al-qryw.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 5459,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mustafa-mtawa",
+      "name": "Mustafa Mtawa",
+      "arabicName": "مصطفى مطاوع",
+      "country": "Liviya",
+      "photo": "/images/reciters/mustafa-mtawa.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 5330,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-amer",
+      "name": "Ahmed Amer",
+      "arabicName": "أحمد عامر",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-amer.webp",
+      "tags": [
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 5323,
+      "isTopReciter": false
+    },
+    {
+      "slug": "bilal-ben-mahmoud",
+      "name": "Bilal Ben Mahmoud",
+      "arabicName": "بلال بن محمود",
+      "country": "Tunis",
+      "photo": "/images/reciters/bilal-ben-mahmoud.webp",
+      "tags": [],
+      "totalListens": 5316,
+      "isTopReciter": false
+    },
+    {
+      "slug": "khalil-didi",
+      "name": "Khalil Didi",
+      "arabicName": "خليل ديدي",
+      "country": "Senegal",
+      "photo": "/images/reciters/khalil-didi.webp",
+      "tags": [],
+      "totalListens": 5271,
+      "isTopReciter": false
+    },
+    {
+      "slug": "nasr-al-din-tubar",
+      "name": "Nasr al-Din Tubar",
+      "arabicName": "نصر الدين طوبار",
+      "country": "Misr",
+      "photo": "/images/reciters/nasr-al-din-tubar.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar",
+        "Noyob qiroatlar"
+      ],
+      "totalListens": 5209,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdel-rahman-benmoussa",
+      "name": "Abdel Rahman Benmoussa",
+      "arabicName": "عبد الرحمن بنموسى",
+      "country": "Marokaş",
+      "photo": "/images/reciters/abdel-rahman-benmoussa.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 5159,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-tamim-al-maraghi",
+      "name": "Ahmed Tamim Al-Maraghi",
+      "arabicName": "أحمد تميم المراغي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/ahmed-tamim-al-maraghi.webp",
+      "tags": [],
+      "totalListens": 5125,
+      "isTopReciter": false
+    },
+    {
+      "slug": "hossam-el-din-ebadi",
+      "name": "Hossam El Din Ebadi",
+      "arabicName": "حسام الدين عبادي",
+      "country": "Jazoir",
+      "photo": "/images/reciters/hossam-el-din-ebadi.webp",
+      "tags": [],
+      "totalListens": 5122,
+      "isTopReciter": false
+    },
+    {
+      "slug": "muhammad-al-muhaisni",
+      "name": "Muhammad Al Muhaisni",
+      "arabicName": "محمد المحيسني",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/muhammad-al-muhaisni.webp",
+      "tags": [],
+      "totalListens": 5054,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ibrahim-al-shashae",
+      "name": "Ibrahim Al Şaşae",
+      "arabicName": "إبراهيم الشعشاعي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/ibrahim-al-shashae.webp",
+      "tags": [
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 5045,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdul-aziz-al-qwry-abu-ismail",
+      "name": "Abdul-Aziz Al-Qwry Abu Ismail",
+      "arabicName": "عبد العزيز القوري أبو إسماعيل",
+      "country": "Marokaş",
+      "photo": "/images/reciters/abdul-aziz-al-qwry-abu-ismail.webp",
+      "tags": [],
+      "totalListens": 4940,
+      "isTopReciter": false
+    },
+    {
+      "slug": "al-waleed-al-shamsan",
+      "name": "Al-Waleed Al-Şamsan",
+      "arabicName": "الوليد الشمسان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/al-waleed-al-shamsan.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Haramayn qiroatlari",
+        "Haram imomlari"
+      ],
+      "totalListens": 4918,
+      "isTopReciter": true
+    },
+    {
+      "slug": "mohammed-barhaji",
+      "name": "Mohammed Barhaji",
+      "arabicName": "محمد برهجي",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/mohammed-barhaji.webp",
+      "tags": [],
+      "totalListens": 4871,
+      "isTopReciter": false
+    },
+    {
+      "slug": "yassin-al-jazairi",
+      "name": "Yassin Al-Jazairi",
+      "arabicName": "ياسين الجزائري",
+      "country": "Jazoir",
+      "photo": "/images/reciters/yassin-al-jazairi.webp",
+      "tags": [],
+      "totalListens": 4816,
+      "isTopReciter": false
+    },
+    {
+      "slug": "saleh-al-ansari",
+      "name": "Saleh Al Ansari",
+      "arabicName": "صالح الأنصاري",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/saleh-al-ansari.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4671,
+      "isTopReciter": true
+    },
+    {
+      "slug": "anas-al-maiman",
+      "name": "Anas Al Maiman",
+      "arabicName": "أنس الميمان",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/anas-al-maiman.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4663,
+      "isTopReciter": true
+    },
+    {
+      "slug": "ahmed-jalil-mawlawi",
+      "name": "Ahmed Jalil Mawlawi",
+      "arabicName": "أحمد جليل مولوي",
+      "country": "Suriya",
+      "photo": "/images/reciters/ahmed-jalil-mawlawi.webp",
+      "tags": [],
+      "totalListens": 4659,
+      "isTopReciter": true
+    },
+    {
+      "slug": "tawfiq-al-ta'i",
+      "name": "Tawfiq al Ta'i",
+      "arabicName": "توفيق الطائع",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/tawfiq-al-ta'i.webp",
+      "tags": [],
+      "totalListens": 4646,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mohamed-laghzaf-weld-mohamed-sidi",
+      "name": "Mohamed Laghzaf weld Mohamed Sidi",
+      "arabicName": "محمد لغظف ولد محمد سيدي",
+      "country": "Mavritaniya",
+      "photo": "/images/reciters/mohamed-laghzaf-weld-mohamed-sidi.webp",
+      "tags": [],
+      "totalListens": 4535,
+      "isTopReciter": false
+    },
+    {
+      "slug": "mohamed-abdel-wahab-al-tantawi",
+      "name": "Mohamed Abdel Wahab Al Tantawi",
+      "arabicName": "محمد عبد الوهاب الطنطاوي",
+      "country": "Misr",
+      "photo": "/images/reciters/mohamed-abdel-wahab-al-tantawi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar",
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 4456,
+      "isTopReciter": true
+    },
+    {
+      "slug": "obaida-mowafq",
+      "name": "Obaida Mowaffaq",
+      "arabicName": "عبيدة موفق",
+      "country": "Iroq",
+      "photo": "/images/reciters/obaida-mowafq.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4413,
+      "isTopReciter": true
+    },
+    {
+      "slug": "taha-al-fashni",
+      "name": "Taha Al Faşni",
+      "arabicName": "طه الفشني",
+      "country": "Misr",
+      "photo": "/images/reciters/taha-al-fashni.webp",
+      "tags": [
+        "Buyuk ustozlar"
+      ],
+      "totalListens": 4352,
+      "isTopReciter": false
+    },
+    {
+      "slug": "hamza-al-far",
+      "name": "Hamza Al Far",
+      "arabicName": "حمزة الفار",
+      "country": "Iordaniya",
+      "photo": "/images/reciters/hamza-al-far.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4187,
+      "isTopReciter": true
+    },
+    {
+      "slug": "jaber-al-qaitan",
+      "name": "Jaber Al-Qaitan",
+      "arabicName": "جابر القيطان",
+      "country": "Quvayt",
+      "photo": "/images/reciters/jaber-al-qaitan.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4109,
+      "isTopReciter": true
+    },
+    {
+      "slug": "muhammad-jibril",
+      "name": "Muhammad Jibril",
+      "arabicName": "محمد جبريل",
+      "country": "Misr",
+      "photo": "/images/reciters/muhammad-jibril.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 4100,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-al-haddad",
+      "name": "Ahmed Al Haddad",
+      "arabicName": "أحمد الحداد",
+      "country": "Misr",
+      "photo": "/images/reciters/ahmed-al-haddad.webp",
+      "tags": [],
+      "totalListens": 4093,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-tahir",
+      "name": "Ahmed Tahir",
+      "arabicName": "أحمد طاهر",
+      "country": "Sudan",
+      "photo": "/images/reciters/ahmed-tahir.webp",
+      "tags": [],
+      "totalListens": 4074,
+      "isTopReciter": false
+    },
+    {
+      "slug": "walid-atef",
+      "name": "Walid Atef",
+      "arabicName": "وليد عاطف",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/walid-atef.webp",
+      "tags": [],
+      "totalListens": 4068,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ibrahim-al-zahrani",
+      "name": "Ibrahim Al Zahrani",
+      "arabicName": "إبراهيم الزهراني",
+      "country": "Xalqaro",
+      "photo": "/images/reciters/ibrahim-al-zahrani.webp",
+      "tags": [],
+      "totalListens": 3887,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdullah-basfar",
+      "name": "Abdullah Basfar",
+      "arabicName": "عبد الله بصفر",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdullah-basfar.webp",
+      "tags": [],
+      "totalListens": 3882,
+      "isTopReciter": false
+    },
+    {
+      "slug": "ahmed-ali-al-hudhaifi",
+      "name": "Ahmed Ali Al Hudhaifi",
+      "arabicName": "أحمد علي الحذيفي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/ahmed-ali-al-hudhaifi.webp",
+      "tags": [],
+      "totalListens": 3691,
+      "isTopReciter": true
+    },
+    {
+      "slug": "abdul-wadud-hanif",
+      "name": "Abdul Wadud Hanif",
+      "arabicName": "عبد الودود حنيف",
+      "country": "Amerika Qöşma Ştatlari",
+      "photo": "/images/reciters/abdul-wadud-hanif.webp",
+      "tags": [],
+      "totalListens": 3629,
+      "isTopReciter": false
+    },
+    {
+      "slug": "abdul-rahman-al-awsi",
+      "name": "Abdul Rahman Al Awsi",
+      "arabicName": "عبد الرحمن العوسي",
+      "country": "Saudiya Arabistoni",
+      "photo": "/images/reciters/abdul-rahman-al-awsi.webp",
+      "tags": [
+        "Xuşuʼli qiroatlar"
+      ],
+      "totalListens": 3608,
+      "isTopReciter": true
+    }
+  ],
+  "surahs": [
+    {
+      "number": 1,
+      "slug": "al-fatihah",
+      "name": "Al-Fatihah",
+      "arabicName": "الفاتحة",
+      "englishName": "Oçuvçi",
+      "verses": 7,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 2,
+      "slug": "al-baqarah",
+      "name": "Al-Baqarah",
+      "arabicName": "البقرة",
+      "englishName": "Sigir",
+      "verses": 286,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 3,
+      "slug": "ali-'imran",
+      "name": "Ali 'Imran",
+      "arabicName": "آل عمران",
+      "englishName": "Imron oilasi",
+      "verses": 200,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 4,
+      "slug": "an-nisa",
+      "name": "An-Nisa",
+      "arabicName": "النساء",
+      "englishName": "Ayollar",
+      "verses": 176,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 5,
+      "slug": "al-maidah",
+      "name": "Al-Ma'idah",
+      "arabicName": "المائدة",
+      "englishName": "Dasturxon",
+      "verses": 120,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 6,
+      "slug": "al-an'am",
+      "name": "Al-An'am",
+      "arabicName": "الأنعام",
+      "englishName": "Çorva mollari",
+      "verses": 165,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 7,
+      "slug": "al-a'raf",
+      "name": "Al-A'raf",
+      "arabicName": "الأعراف",
+      "englishName": "Aʼrof",
+      "verses": 206,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 8,
+      "slug": "al-anfal",
+      "name": "Al-Anfal",
+      "arabicName": "الأنفال",
+      "englishName": "Öljalar",
+      "verses": 75,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 9,
+      "slug": "at-tawbah",
+      "name": "At-Tawbah",
+      "arabicName": "التوبة",
+      "englishName": "Tavba",
+      "verses": 129,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 10,
+      "slug": "yunus",
+      "name": "Yunus",
+      "arabicName": "يونس",
+      "englishName": "Yunus",
+      "verses": 109,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 11,
+      "slug": "hud",
+      "name": "Hud",
+      "arabicName": "هود",
+      "englishName": "Hud",
+      "verses": 123,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 12,
+      "slug": "yusuf",
+      "name": "Yusuf",
+      "arabicName": "يوسف",
+      "englishName": "Yusuf",
+      "verses": 111,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 13,
+      "slug": "ar-ra'd",
+      "name": "Ar-Ra'd",
+      "arabicName": "الرعد",
+      "englishName": "Momaqaldiroq",
+      "verses": 43,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 14,
+      "slug": "ibrahim",
+      "name": "Ibrahim",
+      "arabicName": "ابراهيم",
+      "englishName": "Ibrohim",
+      "verses": 52,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 15,
+      "slug": "al-hijr",
+      "name": "Al-Hijr",
+      "arabicName": "الحجر",
+      "englishName": "Hijr",
+      "verses": 99,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 16,
+      "slug": "an-nahl",
+      "name": "An-Nahl",
+      "arabicName": "النحل",
+      "englishName": "Asalarilar",
+      "verses": 128,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 17,
+      "slug": "al-isra",
+      "name": "Al-Isra",
+      "arabicName": "الإسراء",
+      "englishName": "Tungi sayohat",
+      "verses": 111,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 18,
+      "slug": "al-kahf",
+      "name": "Al-Kahf",
+      "arabicName": "الكهف",
+      "englishName": "Ğor",
+      "verses": 110,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 19,
+      "slug": "maryam",
+      "name": "Maryam",
+      "arabicName": "مريم",
+      "englishName": "Maryam",
+      "verses": 98,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 20,
+      "slug": "taha",
+      "name": "Taha",
+      "arabicName": "طه",
+      "englishName": "To-Ho",
+      "verses": 135,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 21,
+      "slug": "al-anbiya",
+      "name": "Al-Anbya",
+      "arabicName": "الأنبياء",
+      "englishName": "Payğambarlar",
+      "verses": 112,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 22,
+      "slug": "al-hajj",
+      "name": "Al-Hajj",
+      "arabicName": "الحج",
+      "englishName": "Haj",
+      "verses": 78,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 23,
+      "slug": "al-mu'minun",
+      "name": "Al-Mu'minun",
+      "arabicName": "المؤمنون",
+      "englishName": "Möminlar",
+      "verses": 118,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 24,
+      "slug": "an-nur",
+      "name": "An-Nur",
+      "arabicName": "النور",
+      "englishName": "Nur",
+      "verses": 64,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 25,
+      "slug": "al-furqan",
+      "name": "Al-Furqan",
+      "arabicName": "الفرقان",
+      "englishName": "Furqon",
+      "verses": 77,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 26,
+      "slug": "ash-shu'ara",
+      "name": "Aş-Şu'ara",
+      "arabicName": "الشعراء",
+      "englishName": "Şoirlar",
+      "verses": 227,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 27,
+      "slug": "an-naml",
+      "name": "An-Naml",
+      "arabicName": "النمل",
+      "englishName": "Çumoli",
+      "verses": 93,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 28,
+      "slug": "al-qasas",
+      "name": "Al-Qasas",
+      "arabicName": "القصص",
+      "englishName": "Qissalar",
+      "verses": 88,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 29,
+      "slug": "al-'ankabut",
+      "name": "Al-'Ankabut",
+      "arabicName": "العنكبوت",
+      "englishName": "Örgimçak",
+      "verses": 69,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 30,
+      "slug": "ar-rum",
+      "name": "Ar-Rum",
+      "arabicName": "الروم",
+      "englishName": "Rumliklar",
+      "verses": 60,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 31,
+      "slug": "luqman",
+      "name": "Luqman",
+      "arabicName": "لقمان",
+      "englishName": "Luqmon",
+      "verses": 34,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 32,
+      "slug": "as-sajdah",
+      "name": "As-Sajdah",
+      "arabicName": "السجدة",
+      "englishName": "Sajda",
+      "verses": 30,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 33,
+      "slug": "al-ahzab",
+      "name": "Al-Ahzab",
+      "arabicName": "الأحزاب",
+      "englishName": "Ahzob",
+      "verses": 73,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 34,
+      "slug": "saba",
+      "name": "Saba",
+      "arabicName": "سبإ",
+      "englishName": "Saba",
+      "verses": 54,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 35,
+      "slug": "fatir",
+      "name": "Fatir",
+      "arabicName": "فاطر",
+      "englishName": "Yaratuvçi",
+      "verses": 45,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 36,
+      "slug": "ya-sin",
+      "name": "Ya-Sin",
+      "arabicName": "يس",
+      "englishName": "Yo-Sin",
+      "verses": 83,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 37,
+      "slug": "as-saffat",
+      "name": "As-Saffat",
+      "arabicName": "الصافات",
+      "englishName": "Saf tortganlar",
+      "verses": 182,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 38,
+      "slug": "sad",
+      "name": "Sad",
+      "arabicName": "ص",
+      "englishName": "Sod",
+      "verses": 88,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 39,
+      "slug": "az-zumar",
+      "name": "Az-Zumar",
+      "arabicName": "الزمر",
+      "englishName": "Zumar",
+      "verses": 75,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 40,
+      "slug": "ghafir",
+      "name": "Ghafir",
+      "arabicName": "غافر",
+      "englishName": "Ğofir",
+      "verses": 85,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 41,
+      "slug": "fussilat",
+      "name": "Fussilat",
+      "arabicName": "فصلت",
+      "englishName": "Batafsil bayon qilingan",
+      "verses": 54,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 42,
+      "slug": "ash-shura",
+      "name": "Aş-Şuraa",
+      "arabicName": "الشورى",
+      "englishName": "Şuro",
+      "verses": 53,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 43,
+      "slug": "az-zukhruf",
+      "name": "Az-Zukhruf",
+      "arabicName": "الزخرف",
+      "englishName": "Ziynatlar",
+      "verses": 89,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 44,
+      "slug": "ad-dukhan",
+      "name": "Ad-Dukhan",
+      "arabicName": "الدخان",
+      "englishName": "Tutun",
+      "verses": 59,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 45,
+      "slug": "al-jathiyah",
+      "name": "Al-Jathiyah",
+      "arabicName": "الجاثية",
+      "englishName": "Tiz çökkanlar",
+      "verses": 37,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 46,
+      "slug": "al-ahqaf",
+      "name": "Al-Ahqaf",
+      "arabicName": "الأحقاف",
+      "englishName": "Ahqof",
+      "verses": 35,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 47,
+      "slug": "muhammad",
+      "name": "Muhammad",
+      "arabicName": "محمد",
+      "englishName": "Muhammad",
+      "verses": 38,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 48,
+      "slug": "al-fath",
+      "name": "Al-Fath",
+      "arabicName": "الفتح",
+      "englishName": "Fath",
+      "verses": 29,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 49,
+      "slug": "al-hujurat",
+      "name": "Al-Hujurat",
+      "arabicName": "الحجرات",
+      "englishName": "Hujralar",
+      "verses": 18,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 50,
+      "slug": "qaf",
+      "name": "Qaf",
+      "arabicName": "ق",
+      "englishName": "Qof",
+      "verses": 45,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 51,
+      "slug": "adh-dhariyat",
+      "name": "Adh-Dhariyat",
+      "arabicName": "الذاريات",
+      "englishName": "Soçuvçi şamollar",
+      "verses": 60,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 52,
+      "slug": "at-tur",
+      "name": "At-Tur",
+      "arabicName": "الطور",
+      "englishName": "Tur",
+      "verses": 49,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 53,
+      "slug": "an-najm",
+      "name": "An-Najm",
+      "arabicName": "النجم",
+      "englishName": "Yulduz",
+      "verses": 62,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 54,
+      "slug": "al-qamar",
+      "name": "Al-Qamar",
+      "arabicName": "القمر",
+      "englishName": "Oy",
+      "verses": 55,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 55,
+      "slug": "ar-rahman",
+      "name": "Ar-Rahman",
+      "arabicName": "الرحمن",
+      "englishName": "Rahmon",
+      "verses": 78,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 56,
+      "slug": "al-waqi'ah",
+      "name": "Al-Waqi'ah",
+      "arabicName": "الواقعة",
+      "englishName": "Vaqiʼa",
+      "verses": 96,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 57,
+      "slug": "al-hadid",
+      "name": "Al-Hadid",
+      "arabicName": "الحديد",
+      "englishName": "Temir",
+      "verses": 29,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 58,
+      "slug": "al-mujadilah",
+      "name": "Al-Mujadila",
+      "arabicName": "المجادلة",
+      "englishName": "Munozara qiluvçi ayol",
+      "verses": 22,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 59,
+      "slug": "al-hashr",
+      "name": "Al-Haşr",
+      "arabicName": "الحشر",
+      "englishName": "Haşr",
+      "verses": 24,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 60,
+      "slug": "al-mumtahanah",
+      "name": "Al-Mumtahanah",
+      "arabicName": "الممتحنة",
+      "englishName": "Sinovga tortilgan",
+      "verses": 13,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 61,
+      "slug": "as-saff",
+      "name": "As-Saf",
+      "arabicName": "الصف",
+      "englishName": "Saf",
+      "verses": 14,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 62,
+      "slug": "al-jumu'ah",
+      "name": "Al-Jumu'ah",
+      "arabicName": "الجمعة",
+      "englishName": "Juma",
+      "verses": 11,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 63,
+      "slug": "al-munafiqun",
+      "name": "Al-Munafiqun",
+      "arabicName": "المنافقون",
+      "englishName": "Munofiqlar",
+      "verses": 11,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 64,
+      "slug": "at-taghabun",
+      "name": "At-Taghabun",
+      "arabicName": "التغابن",
+      "englishName": "Tağobun",
+      "verses": 18,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 65,
+      "slug": "at-talaq",
+      "name": "At-Talaq",
+      "arabicName": "الطلاق",
+      "englishName": "Taloq",
+      "verses": 12,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 66,
+      "slug": "at-tahrim",
+      "name": "At-Tahrim",
+      "arabicName": "التحريم",
+      "englishName": "Tahrim",
+      "verses": 12,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 67,
+      "slug": "al-mulk",
+      "name": "Al-Mulk",
+      "arabicName": "الملك",
+      "englishName": "Mulk",
+      "verses": 30,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 68,
+      "slug": "al-qalam",
+      "name": "Al-Qalam",
+      "arabicName": "القلم",
+      "englishName": "Qalam",
+      "verses": 52,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 69,
+      "slug": "al-haqqah",
+      "name": "Al-Haqqah",
+      "arabicName": "الحاقة",
+      "englishName": "Haqqa",
+      "verses": 52,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 70,
+      "slug": "al-ma'arij",
+      "name": "Al-Ma'arij",
+      "arabicName": "المعارج",
+      "englishName": "Maorij",
+      "verses": 44,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 71,
+      "slug": "nuh",
+      "name": "Nuh",
+      "arabicName": "نوح",
+      "englishName": "Nuh",
+      "verses": 28,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 72,
+      "slug": "al-jinn",
+      "name": "Al-Jinn",
+      "arabicName": "الجن",
+      "englishName": "Jinlar",
+      "verses": 28,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 73,
+      "slug": "al-muzzammil",
+      "name": "Al-Muzzammil",
+      "arabicName": "المزمل",
+      "englishName": "Öranib olgan",
+      "verses": 20,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 74,
+      "slug": "al-muddaththir",
+      "name": "Al-Muddaththir",
+      "arabicName": "المدثر",
+      "englishName": "Yopinib olgan",
+      "verses": 56,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 75,
+      "slug": "al-qiyamah",
+      "name": "Al-Qiyamah",
+      "arabicName": "القيامة",
+      "englishName": "Qiyomat",
+      "verses": 40,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 76,
+      "slug": "al-insan",
+      "name": "Al-Insan",
+      "arabicName": "الانسان",
+      "englishName": "Inson",
+      "verses": 31,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 77,
+      "slug": "al-mursalat",
+      "name": "Al-Mursalat",
+      "arabicName": "المرسلات",
+      "englishName": "Yuborilganlar",
+      "verses": 50,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 78,
+      "slug": "an-naba",
+      "name": "An-Naba",
+      "arabicName": "النبإ",
+      "englishName": "Xabar",
+      "verses": 40,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 79,
+      "slug": "an-nazi'at",
+      "name": "An-Nazi'at",
+      "arabicName": "النازعات",
+      "englishName": "Suğurib oluvçilar",
+      "verses": 46,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 80,
+      "slug": "'abasa",
+      "name": "'Abasa",
+      "arabicName": "عبس",
+      "englishName": "Yuz burdi",
+      "verses": 42,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 81,
+      "slug": "at-takwir",
+      "name": "At-Takwir",
+      "arabicName": "التكوير",
+      "englishName": "Öraliş",
+      "verses": 29,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 82,
+      "slug": "al-infitar",
+      "name": "Al-Infitar",
+      "arabicName": "الإنفطار",
+      "englishName": "Yoriliş",
+      "verses": 19,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 83,
+      "slug": "al-mutaffifin",
+      "name": "Al-Mutaffifin",
+      "arabicName": "المطففين",
+      "englishName": "Ölçovda kamaytiruvçilar",
+      "verses": 36,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 84,
+      "slug": "al-inshiqaq",
+      "name": "Al-Inşiqaq",
+      "arabicName": "الإنشقاق",
+      "englishName": "Böliniş",
+      "verses": 25,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 85,
+      "slug": "al-buruj",
+      "name": "Al-Buruj",
+      "arabicName": "البروج",
+      "englishName": "Burjlar",
+      "verses": 22,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 86,
+      "slug": "at-tariq",
+      "name": "At-Tariq",
+      "arabicName": "الطارق",
+      "englishName": "Tariq",
+      "verses": 17,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 87,
+      "slug": "al-a'la",
+      "name": "Al-A'la",
+      "arabicName": "الأعلى",
+      "englishName": "Eng oliy",
+      "verses": 19,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 88,
+      "slug": "al-ghashiyah",
+      "name": "Al-Ghaşiyah",
+      "arabicName": "الغاشية",
+      "englishName": "Qoplovçi",
+      "verses": 26,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 89,
+      "slug": "al-fajr",
+      "name": "Al-Fajr",
+      "arabicName": "الفجر",
+      "englishName": "Tong",
+      "verses": 30,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 90,
+      "slug": "al-balad",
+      "name": "Al-Balad",
+      "arabicName": "البلد",
+      "englishName": "Şahar",
+      "verses": 20,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 91,
+      "slug": "ash-shams",
+      "name": "Aş-Şams",
+      "arabicName": "الشمس",
+      "englishName": "Quyoş",
+      "verses": 15,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 92,
+      "slug": "al-layl",
+      "name": "Al-Layl",
+      "arabicName": "الليل",
+      "englishName": "Tun",
+      "verses": 21,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 93,
+      "slug": "ad-duhaa",
+      "name": "Ad-Duhaa",
+      "arabicName": "الضحى",
+      "englishName": "Çoşgoh",
+      "verses": 11,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 94,
+      "slug": "ash-sharh",
+      "name": "Aş-Şarh",
+      "arabicName": "الشرح",
+      "englishName": "Kengaytiriş",
+      "verses": 8,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 95,
+      "slug": "at-tin",
+      "name": "At-Tin",
+      "arabicName": "التين",
+      "englishName": "Anjir",
+      "verses": 8,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 96,
+      "slug": "al-'alaq",
+      "name": "Al-'Alaq",
+      "arabicName": "العلق",
+      "englishName": "Laxta",
+      "verses": 19,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 97,
+      "slug": "al-qadr",
+      "name": "Al-Qadr",
+      "arabicName": "القدر",
+      "englishName": "Qadr",
+      "verses": 5,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 98,
+      "slug": "al-bayyinah",
+      "name": "Al-Bayyinah",
+      "arabicName": "البينة",
+      "englishName": "Aniq dalil",
+      "verses": 8,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 99,
+      "slug": "az-zalzalah",
+      "name": "Az-Zalzalah",
+      "arabicName": "الزلزلة",
+      "englishName": "Zilzila",
+      "verses": 8,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 100,
+      "slug": "al-'adiyat",
+      "name": "Al-'Adiyat",
+      "arabicName": "العاديات",
+      "englishName": "Yuguruvçi otlar",
+      "verses": 11,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 101,
+      "slug": "al-qari'ah",
+      "name": "Al-Qari'ah",
+      "arabicName": "القارعة",
+      "englishName": "Qoriʼa",
+      "verses": 11,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 102,
+      "slug": "at-takathur",
+      "name": "At-Takathur",
+      "arabicName": "التكاثر",
+      "englishName": "Köpaytirişga oşiqiş",
+      "verses": 8,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 103,
+      "slug": "al-'asr",
+      "name": "Al-'Asr",
+      "arabicName": "العصر",
+      "englishName": "Asr",
+      "verses": 3,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 104,
+      "slug": "al-humazah",
+      "name": "Al-Humazah",
+      "arabicName": "الهمزة",
+      "englishName": "Ğiybatçi",
+      "verses": 9,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 105,
+      "slug": "al-fil",
+      "name": "Al-Fil",
+      "arabicName": "الفيل",
+      "englishName": "Fil",
+      "verses": 5,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 106,
+      "slug": "quraysh",
+      "name": "Qurayş",
+      "arabicName": "قريش",
+      "englishName": "Qurayş",
+      "verses": 4,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 107,
+      "slug": "al-ma'un",
+      "name": "Al-Ma'un",
+      "arabicName": "الماعون",
+      "englishName": "Yaxşilik",
+      "verses": 7,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 108,
+      "slug": "al-kawthar",
+      "name": "Al-Kawthar",
+      "arabicName": "الكوثر",
+      "englishName": "Kavsar",
+      "verses": 3,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 109,
+      "slug": "al-kafirun",
+      "name": "Al-Kafirun",
+      "arabicName": "الكافرون",
+      "englishName": "Kofirlar",
+      "verses": 6,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 110,
+      "slug": "an-nasr",
+      "name": "An-Nasr",
+      "arabicName": "النصر",
+      "englishName": "Ğalaba",
+      "verses": 3,
+      "revelation": "Madaniy"
+    },
+    {
+      "number": 111,
+      "slug": "al-masad",
+      "name": "Al-Masad",
+      "arabicName": "المسد",
+      "englishName": "Masad",
+      "verses": 5,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 112,
+      "slug": "al-ikhlas",
+      "name": "Al-Ikhlas",
+      "arabicName": "الإخلاص",
+      "englishName": "Ixlos",
+      "verses": 4,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 113,
+      "slug": "al-falaq",
+      "name": "Al-Falaq",
+      "arabicName": "الفلق",
+      "englishName": "Tong",
+      "verses": 5,
+      "revelation": "Makkiy"
+    },
+    {
+      "number": 114,
+      "slug": "an-nas",
+      "name": "An-Nas",
+      "arabicName": "الناس",
+      "englishName": "Odamlar",
+      "verses": 6,
+      "revelation": "Makkiy"
+    }
+  ]
+}

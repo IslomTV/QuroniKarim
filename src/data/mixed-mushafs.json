@@ -1,0 +1,3622 @@
+[
+  {
+    "slug": "multi-reciter-quran",
+    "name": "Köp qorili Qurʼon",
+    "arabicName": "المصحف المنوع",
+    "description": "21 ta maşhur qori ijrosidagi xilma-xil va hamkorlikdagi Muqaddas Qurʼon qiroatlaridan iborat noyob töplam.",
+    "cover": "/images/mushafs/multi-reciter-quran.webp",
+    "riwaya": "Hafs An Asim",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "ibrahim-al-akhdar",
+        "name": "Ibrahim Al Akhdar",
+        "arabicName": "إبراهيم الأخضر",
+        "photo": null
+      },
+      {
+        "slug": "abdul-bari-al-thubaiti",
+        "name": "Abdul Bari Al Thubaiti",
+        "arabicName": "عبد الباري الثبيتي",
+        "photo": null
+      },
+      {
+        "slug": "abdullah-basfar",
+        "name": "Abdullah Basfar",
+        "arabicName": "عبد الله بصفر",
+        "photo": "/images/reciters/abdullah-basfar.webp"
+      },
+      {
+        "slug": "abdul-mohsen-al-qasim",
+        "name": "Abdul Mohsen Al Qasim",
+        "arabicName": "عبد المحسن القاسم",
+        "photo": null
+      },
+      {
+        "slug": "mohamed-ayoub",
+        "name": "Mohamed Ayoub",
+        "arabicName": "محمد أيوب",
+        "photo": "/images/reciters/mohamed-ayoub.webp"
+      },
+      {
+        "slug": "mahmoud-ali-al-banna",
+        "name": "Mahmoud Ali Al Banna",
+        "arabicName": "محمود علي البنا",
+        "photo": "/images/reciters/mahmoud-ali-al-banna.webp"
+      },
+      {
+        "slug": "ahmed-nainaa",
+        "name": "Ahmed Nainaa",
+        "arabicName": "أحمد نعينع",
+        "photo": null
+      },
+      {
+        "slug": "saad-al-ghamdi",
+        "name": "Saad Al Ghamdi",
+        "arabicName": "سعد الغامدي",
+        "photo": "/images/reciters/saad-al-ghamdi.webp"
+      },
+      {
+        "slug": "abu-bakr-al-shatri",
+        "name": "Abu Bakr Al Şatri",
+        "arabicName": "أبو بكر الشاطري",
+        "photo": "/images/reciters/abu-bakr-al-shatri.webp"
+      },
+      {
+        "slug": "salah-al-rashed",
+        "name": "Salah Al Raşed",
+        "arabicName": "صلاح الراشد",
+        "photo": null
+      },
+      {
+        "slug": "abdul-hadi-al-kanakri",
+        "name": "Abdul Hadi Al Kanakri",
+        "arabicName": "عبد الهادي الكناكري",
+        "photo": null
+      },
+      {
+        "slug": "abdul-wadud-hanif",
+        "name": "Abdul Wadud Hanif",
+        "arabicName": "عبد الودود حنيف",
+        "photo": "/images/reciters/abdul-wadud-hanif.webp"
+      },
+      {
+        "slug": "ali-jaber",
+        "name": "Ali Jaber",
+        "arabicName": "علي جابر",
+        "photo": "/images/reciters/ali-jaber.webp"
+      },
+      {
+        "slug": "muhammad-siddiq-al-minshawi",
+        "name": "Muhammad Siddiq Al Minşawi",
+        "arabicName": "محمد صديق المنشاوي",
+        "photo": "/images/reciters/muhammad-siddiq-al-minshawi.webp"
+      },
+      {
+        "slug": "mahmoud-khalil-al-hosary",
+        "name": "Mahmoud Khalil Al Hosary",
+        "arabicName": "محمود خليل الحصري",
+        "photo": "/images/reciters/mahmoud-khalil-al-hosary.webp"
+      },
+      {
+        "slug": "muhammad-hassan",
+        "name": "Muhammad Hassan",
+        "arabicName": "محمد حسان",
+        "photo": null
+      },
+      {
+        "slug": "tawfiq-al-sayegh",
+        "name": "Tawfiq Al Sayegh",
+        "arabicName": "توفيق الصايغ",
+        "photo": null
+      },
+      {
+        "slug": "saud-al-shuraim",
+        "name": "Saud Al Şuraim",
+        "arabicName": "سعود الشريم",
+        "photo": "/images/reciters/saud-al-shuraim.webp"
+      },
+      {
+        "slug": "ahmed-al-agamy",
+        "name": "Ahmed Al Agamy",
+        "arabicName": "أحمد بن علي العجمي",
+        "photo": "/images/reciters/ahmed-al-agamy.webp"
+      },
+      {
+        "slug": "mustafa-ismail",
+        "name": "Mustafa Ismail",
+        "arabicName": "مصطفى إسماعيل",
+        "photo": "/images/reciters/mustafa-ismail.webp"
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/multi-reciter-quran/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "moroccan-reciters-quran-khatmah",
+    "name": "Marokaş qorilari xatmasi",
+    "arabicName": "الختمة المشتركة لقراء المغرب",
+    "description": "Marokaş qorilari ijrosidagi Qurʼon xatmasi.",
+    "cover": "/images/mushafs/moroccan-reciters-quran-khatmah.webp",
+    "riwaya": "Warş an Nafi",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "zakaria-al-raqibi",
+        "name": "Zakaria Al Raqibi",
+        "arabicName": "زكريا الرقيبي",
+        "photo": null
+      },
+      {
+        "slug": "rachid-louaize",
+        "name": "Raçid Louaize",
+        "arabicName": "رشيد اللويزة",
+        "photo": null
+      },
+      {
+        "slug": "al-hussein-al-baqali",
+        "name": "Al Hussein Al Baqali",
+        "arabicName": "الحسين البقالي",
+        "photo": null
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/moroccan-reciters-quran-khatmah/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "libyan-reciters-quran-khatmah",
+    "name": "Liviya qorilari Qurʼon xatmasi",
+    "arabicName": "مصحف ختمة قراء ليبيا",
+    "description": "Yetakçi liviyalik qorilar ijrosidagi murattal Qurʼon xatmasi (Nofeʼdan Qolun rivoyati).",
+    "cover": "/images/mushafs/libyan-reciters-quran-khatmah.webp",
+    "riwaya": "Qalun an Nafi",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "abdul-rahman-mjly",
+        "name": "Abdulrahman Majali",
+        "arabicName": "عبد الرحمن مجلي",
+        "photo": null
+      },
+      {
+        "slug": "abdalwarth-al-abany",
+        "name": "Abdul Warith Al-Abbani",
+        "arabicName": "عبد الوارث العباني",
+        "photo": null
+      },
+      {
+        "slug": "abdul-hamid-al-ghwyl",
+        "name": "Abdul-Hamid Al-Ghwyl",
+        "arabicName": "عبد الحميد الغويل",
+        "photo": null
+      },
+      {
+        "slug": "hsam-al-shhwby",
+        "name": "Hsam Al-Şhwby",
+        "arabicName": "حسام الشهوبي",
+        "photo": null
+      },
+      {
+        "slug": "ali-al-shhwby",
+        "name": "Ali Al-Şhwby",
+        "arabicName": "علي الشهوبي",
+        "photo": null
+      },
+      {
+        "slug": "abdul-rahman-hrshh",
+        "name": "Abdul Rahman Harşa",
+        "arabicName": "عبد الرحمن حرشة",
+        "photo": null
+      },
+      {
+        "slug": "ayman-al-sayed",
+        "name": "Ayman Al-Sayed",
+        "arabicName": "أيمن السيد",
+        "photo": null
+      },
+      {
+        "slug": "ali-al-swehli",
+        "name": "Ali Al-Swehli",
+        "arabicName": "علي السويحلي",
+        "photo": null
+      },
+      {
+        "slug": "abdul-qadir-muammar-kendi",
+        "name": "Abdul Qadir Muammar Kendi",
+        "arabicName": "عبد القادر معمر كندي",
+        "photo": null
+      },
+      {
+        "slug": "anas-ibrahim-musbah",
+        "name": "Anas Ibrahim Musbah",
+        "arabicName": "أنس إبراهيم مصباح",
+        "photo": null
+      },
+      {
+        "slug": "abdul-karim-fares",
+        "name": "Abdul karim Fares",
+        "arabicName": "عبد الكريم فارس",
+        "photo": null
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/libyan-reciters-quran-khatmah/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "the-murattal-mushaf-of-al-masjid-al-haram-1446-ah",
+    "name": "Al-Masjid al-Haram murattal muşafi — 1446 hijriy",
+    "arabicName": "مصحف الحرم المكي 1446 هـ - مرتل",
+    "description": "Murattal Qurʼon xatmasi — Al-Masjid al-Haram (1446 hijriy).",
+    "cover": "/images/mushafs/the-murattal-mushaf-of-al-masjid-al-haram-1446-ah.webp",
+    "riwaya": "Hafs An Asim",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "abdullah-al-juhani",
+        "name": "Abdullah Al Juhani",
+        "arabicName": "عبد الله عواد الجهني",
+        "photo": "/images/reciters/abdullah-al-juhani.webp"
+      },
+      {
+        "slug": "maher-almaikulai",
+        "name": "Maher Almaikulai",
+        "arabicName": "ماهر المعيقلي",
+        "photo": "/images/reciters/maher-almaikulai.webp"
+      },
+      {
+        "slug": "bandar-balila",
+        "name": "Bandar Balila",
+        "arabicName": "بندر بليلة",
+        "photo": "/images/reciters/bandar-balila.webp"
+      },
+      {
+        "slug": "abdul-rahman-al-sudais",
+        "name": "Abdul Rahman Al-Sudais",
+        "arabicName": "عبد الرحمن السديس",
+        "photo": "/images/reciters/abdul-rahman-al-sudais.webp"
+      },
+      {
+        "slug": "yasser-al-dosary",
+        "name": "Yasser Al Dosary",
+        "arabicName": "ياسر الدوسري",
+        "photo": "/images/reciters/yasser-al-dosary.webp"
+      },
+      {
+        "slug": "badr-al-turki",
+        "name": "Badr Al Turki",
+        "arabicName": "بدر التركي",
+        "photo": "/images/reciters/badr-al-turki.webp"
+      },
+      {
+        "slug": "al-waleed-al-shamsan",
+        "name": "Al-Waleed Al-Şamsan",
+        "arabicName": "الوليد الشمسان",
+        "photo": "/images/reciters/al-waleed-al-shamsan.webp"
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/the-murattal-mushaf-of-al-masjid-al-haram-1446-ah/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "al-masjid-an-nabawi-quran-recitation-1447-ah-murattal",
+    "name": "Al-Masjid an-Nabaviy Qurʼon qiroati (1447 hijriy) — murattal",
+    "arabicName": "مصحف الحرم النبوي 1447 هـ - مرتل",
+    "description": "Al-Masjid an-Nabaviy qorilari ijrosidagi töliq Qurʼon xatmasi — 1447 hijriy.",
+    "cover": "/images/mushafs/al-masjid-an-nabawi-quran-recitation-1447-ah-murattal.webp",
+    "riwaya": "Hafs An Asim",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "abdullah-al-buaijan",
+        "name": "Abdullah Al Buaijan",
+        "arabicName": "عبد الله البعيجان",
+        "photo": "/images/reciters/abdullah-al-buaijan.webp"
+      },
+      {
+        "slug": "salah-al-badir",
+        "name": "Salah Al Badir",
+        "arabicName": "صلاح البدير",
+        "photo": null
+      },
+      {
+        "slug": "ahmed-ali-al-hudhaifi",
+        "name": "Ahmed Ali Al Hudhaifi",
+        "arabicName": "أحمد علي الحذيفي",
+        "photo": "/images/reciters/ahmed-ali-al-hudhaifi.webp"
+      },
+      {
+        "slug": "abdul-mohsen-al-qasim",
+        "name": "Abdul Mohsen Al Qasim",
+        "arabicName": "عبد المحسن القاسم",
+        "photo": null
+      },
+      {
+        "slug": "khaled-al-mihanna",
+        "name": "Khaled Al Mihanna",
+        "arabicName": "خالد المهنا",
+        "photo": null
+      },
+      {
+        "slug": "abdullah-al-qarafi",
+        "name": "Abdullah Al Qarafi",
+        "arabicName": "عبد الله عبد المحسن القرافي",
+        "photo": "/images/reciters/abdullah-al-qarafi.webp"
+      },
+      {
+        "slug": "mohammed-barhaji",
+        "name": "Mohammed Barhaji",
+        "arabicName": "محمد برهجي",
+        "photo": "/images/reciters/mohammed-barhaji.webp"
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/al-masjid-an-nabawi-quran-recitation-1447-ah-murattal/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "triple-reciters-mushaf",
+    "name": "Uç qorili muşaf",
+    "arabicName": "مصحف الختمة الثلاثية",
+    "description": "Uç maşhur qori ijrosidagi töliq Muqaddas Qurʼon qiroati. U 1976-yilda Quvayt Muqaddas Qurʼon radiosi tomonidan yozilgan va uç qori örtasida navbatma-navbat ijro etilgan. Alloh ularga rahm qilsin.",
+    "cover": "/images/mushafs/triple-reciters-mushaf.webp",
+    "riwaya": "Hafs An Asim",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "muhammad-mahmoud-al-tablawi",
+        "name": "Muhammad Mahmoud Al Tablawi",
+        "arabicName": "محمد محمود الطبلاوي",
+        "photo": "/images/reciters/muhammad-mahmoud-al-tablawi.webp"
+      },
+      {
+        "slug": "raghib-mostafa-ghalwash",
+        "name": "Raghib Mostafa Ghalwaş",
+        "arabicName": "راغب مصطفى غلوش",
+        "photo": "/images/reciters/raghib-mostafa-ghalwash.webp"
+      },
+      {
+        "slug": "shaaban-al-sayaad",
+        "name": "Şaaban Al Sayaad",
+        "arabicName": "شعبان الصياد",
+        "photo": null
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/triple-reciters-mushaf/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  },
+  {
+    "slug": "collection-of-famous-quran-reciters",
+    "name": "Maşhur Qurʼon qorilari töplami",
+    "arabicName": "مصحف مشاهير القراء",
+    "description": "Maşhur Qurʼon qorilari ijrosidagi Muqaddas Qurʼon: Mahmud Xalil al-Husariy, Abdul Basit Abdus Samad, Mahmud Ali al-Banna va Mustafo Ismoil.",
+    "cover": "/images/mushafs/collection-of-famous-quran-reciters.webp",
+    "riwaya": "Hafs An Asim",
+    "totalListeners": 0,
+    "contributors": [
+      {
+        "slug": "mahmoud-khalil-al-hosary",
+        "name": "Mahmoud Khalil Al Hosary",
+        "arabicName": "محمود خليل الحصري",
+        "photo": "/images/reciters/mahmoud-khalil-al-hosary.webp"
+      },
+      {
+        "slug": "mahmoud-ali-al-banna",
+        "name": "Mahmoud Ali Al Banna",
+        "arabicName": "محمود علي البنا",
+        "photo": "/images/reciters/mahmoud-ali-al-banna.webp"
+      },
+      {
+        "slug": "abdul-basit-abdul-samad",
+        "name": "Abdul Basit Abdul Samad",
+        "arabicName": "عبد الباسط عبد الصمد",
+        "photo": "/images/reciters/abdul-basit-abdul-samad.webp"
+      },
+      {
+        "slug": "mustafa-ismail",
+        "name": "Mustafa Ismail",
+        "arabicName": "مصطفى إسماعيل",
+        "photo": "/images/reciters/mustafa-ismail.webp"
+      }
+    ],
+    "base": "https://media.way2quran.com/mixed-mushafs/collection-of-famous-quran-reciters/",
+    "tracks": [
+      {
+        "n": 1,
+        "d": 0
+      },
+      {
+        "n": 2,
+        "d": 0
+      },
+      {
+        "n": 3,
+        "d": 0
+      },
+      {
+        "n": 4,
+        "d": 0
+      },
+      {
+        "n": 5,
+        "d": 0
+      },
+      {
+        "n": 6,
+        "d": 0
+      },
+      {
+        "n": 7,
+        "d": 0
+      },
+      {
+        "n": 8,
+        "d": 0
+      },
+      {
+        "n": 9,
+        "d": 0
+      },
+      {
+        "n": 10,
+        "d": 0
+      },
+      {
+        "n": 11,
+        "d": 0
+      },
+      {
+        "n": 12,
+        "d": 0
+      },
+      {
+        "n": 13,
+        "d": 0
+      },
+      {
+        "n": 14,
+        "d": 0
+      },
+      {
+        "n": 15,
+        "d": 0
+      },
+      {
+        "n": 16,
+        "d": 0
+      },
+      {
+        "n": 17,
+        "d": 0
+      },
+      {
+        "n": 18,
+        "d": 0
+      },
+      {
+        "n": 19,
+        "d": 0
+      },
+      {
+        "n": 20,
+        "d": 0
+      },
+      {
+        "n": 21,
+        "d": 0
+      },
+      {
+        "n": 22,
+        "d": 0
+      },
+      {
+        "n": 23,
+        "d": 0
+      },
+      {
+        "n": 24,
+        "d": 0
+      },
+      {
+        "n": 25,
+        "d": 0
+      },
+      {
+        "n": 26,
+        "d": 0
+      },
+      {
+        "n": 27,
+        "d": 0
+      },
+      {
+        "n": 28,
+        "d": 0
+      },
+      {
+        "n": 29,
+        "d": 0
+      },
+      {
+        "n": 30,
+        "d": 0
+      },
+      {
+        "n": 31,
+        "d": 0
+      },
+      {
+        "n": 32,
+        "d": 0
+      },
+      {
+        "n": 33,
+        "d": 0
+      },
+      {
+        "n": 34,
+        "d": 0
+      },
+      {
+        "n": 35,
+        "d": 0
+      },
+      {
+        "n": 36,
+        "d": 0
+      },
+      {
+        "n": 37,
+        "d": 0
+      },
+      {
+        "n": 38,
+        "d": 0
+      },
+      {
+        "n": 39,
+        "d": 0
+      },
+      {
+        "n": 40,
+        "d": 0
+      },
+      {
+        "n": 41,
+        "d": 0
+      },
+      {
+        "n": 42,
+        "d": 0
+      },
+      {
+        "n": 43,
+        "d": 0
+      },
+      {
+        "n": 44,
+        "d": 0
+      },
+      {
+        "n": 45,
+        "d": 0
+      },
+      {
+        "n": 46,
+        "d": 0
+      },
+      {
+        "n": 47,
+        "d": 0
+      },
+      {
+        "n": 48,
+        "d": 0
+      },
+      {
+        "n": 49,
+        "d": 0
+      },
+      {
+        "n": 50,
+        "d": 0
+      },
+      {
+        "n": 51,
+        "d": 0
+      },
+      {
+        "n": 52,
+        "d": 0
+      },
+      {
+        "n": 53,
+        "d": 0
+      },
+      {
+        "n": 54,
+        "d": 0
+      },
+      {
+        "n": 55,
+        "d": 0
+      },
+      {
+        "n": 56,
+        "d": 0
+      },
+      {
+        "n": 57,
+        "d": 0
+      },
+      {
+        "n": 58,
+        "d": 0
+      },
+      {
+        "n": 59,
+        "d": 0
+      },
+      {
+        "n": 60,
+        "d": 0
+      },
+      {
+        "n": 61,
+        "d": 0
+      },
+      {
+        "n": 62,
+        "d": 0
+      },
+      {
+        "n": 63,
+        "d": 0
+      },
+      {
+        "n": 64,
+        "d": 0
+      },
+      {
+        "n": 65,
+        "d": 0
+      },
+      {
+        "n": 66,
+        "d": 0
+      },
+      {
+        "n": 67,
+        "d": 0
+      },
+      {
+        "n": 68,
+        "d": 0
+      },
+      {
+        "n": 69,
+        "d": 0
+      },
+      {
+        "n": 70,
+        "d": 0
+      },
+      {
+        "n": 71,
+        "d": 0
+      },
+      {
+        "n": 72,
+        "d": 0
+      },
+      {
+        "n": 73,
+        "d": 0
+      },
+      {
+        "n": 74,
+        "d": 0
+      },
+      {
+        "n": 75,
+        "d": 0
+      },
+      {
+        "n": 76,
+        "d": 0
+      },
+      {
+        "n": 77,
+        "d": 0
+      },
+      {
+        "n": 78,
+        "d": 0
+      },
+      {
+        "n": 79,
+        "d": 0
+      },
+      {
+        "n": 80,
+        "d": 0
+      },
+      {
+        "n": 81,
+        "d": 0
+      },
+      {
+        "n": 82,
+        "d": 0
+      },
+      {
+        "n": 83,
+        "d": 0
+      },
+      {
+        "n": 84,
+        "d": 0
+      },
+      {
+        "n": 85,
+        "d": 0
+      },
+      {
+        "n": 86,
+        "d": 0
+      },
+      {
+        "n": 87,
+        "d": 0
+      },
+      {
+        "n": 88,
+        "d": 0
+      },
+      {
+        "n": 89,
+        "d": 0
+      },
+      {
+        "n": 90,
+        "d": 0
+      },
+      {
+        "n": 91,
+        "d": 0
+      },
+      {
+        "n": 92,
+        "d": 0
+      },
+      {
+        "n": 93,
+        "d": 0
+      },
+      {
+        "n": 94,
+        "d": 0
+      },
+      {
+        "n": 95,
+        "d": 0
+      },
+      {
+        "n": 96,
+        "d": 0
+      },
+      {
+        "n": 97,
+        "d": 0
+      },
+      {
+        "n": 98,
+        "d": 0
+      },
+      {
+        "n": 99,
+        "d": 0
+      },
+      {
+        "n": 100,
+        "d": 0
+      },
+      {
+        "n": 101,
+        "d": 0
+      },
+      {
+        "n": 102,
+        "d": 0
+      },
+      {
+        "n": 103,
+        "d": 0
+      },
+      {
+        "n": 104,
+        "d": 0
+      },
+      {
+        "n": 105,
+        "d": 0
+      },
+      {
+        "n": 106,
+        "d": 0
+      },
+      {
+        "n": 107,
+        "d": 0
+      },
+      {
+        "n": 108,
+        "d": 0
+      },
+      {
+        "n": 109,
+        "d": 0
+      },
+      {
+        "n": 110,
+        "d": 0
+      },
+      {
+        "n": 111,
+        "d": 0
+      },
+      {
+        "n": 112,
+        "d": 0
+      },
+      {
+        "n": 113,
+        "d": 0
+      },
+      {
+        "n": 114,
+        "d": 0
+      }
+    ]
+  }
+]

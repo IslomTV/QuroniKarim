@@ -1,0 +1,134 @@
+[
+  {
+    "slug": "quran-radio",
+    "name": "Qurʼon radiosi",
+    "arabicName": "إذاعة القرآن الكريم",
+    "url": "https://backup.qurango.net/radio/mix",
+    "country": "Xalqaro",
+    "category": "Qiroat",
+    "description": "Keçayu kunduz eşittiriladigan asosiy Qurʼon radiosi — maşhur qorilar qiroatlarining uzluksiz aralaşmasi.",
+    "image": null,
+    "accent": "#C9A44A"
+  },
+  {
+    "slug": "tarateel",
+    "name": "Tarotil",
+    "arabicName": "ترتيل",
+    "url": "https://backup.qurango.net/radio/tarateel",
+    "country": "Xalqaro",
+    "category": "Qiroat",
+    "description": "Keng doiradagi qorilarning qisqa va nurli qiroatlari.",
+    "image": null,
+    "accent": "#2FBF8F"
+  },
+  {
+    "slug": "serenity",
+    "name": "Sokinlik",
+    "arabicName": "سكينة",
+    "url": "https://backup.qurango.net/radio/sakeenah",
+    "country": "Xalqaro",
+    "category": "Qiroat",
+    "description": "Sokin lahzalar uçun xotirjam qiroatlar — orom oyatlari.",
+    "image": null,
+    "accent": "#7FB6A4"
+  },
+  {
+    "slug": "mishary-alafasy",
+    "name": "Mişariy Alafasiy",
+    "arabicName": "مشاري العفاسي",
+    "url": "https://backup.qurango.net/radio/mishary_alafasi",
+    "country": "Quvayt",
+    "category": "Qiroat",
+    "description": "Quvaytlik qori Mişariy Raşid Alafasiyning uzluksiz qiroatlari.",
+    "image": "/images/reciters/mishary-alafasy.webp",
+    "accent": "#D9B96A"
+  },
+  {
+    "slug": "abdul-basit",
+    "name": "Abdul Basit — mujavvad",
+    "arabicName": "عبد الباسط عبد الصمد",
+    "url": "https://backup.qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+    "country": "Misr",
+    "category": "Qiroat",
+    "description": "Şayx Abdul Basit Abdul Samadning abadiy mujavvad qiroati.",
+    "image": "/images/reciters/abdul-basit-abdul-samad.webp",
+    "accent": "#C9A44A"
+  },
+  {
+    "slug": "maher-almuaiqly",
+    "name": "Mohir al-Muayqaliy",
+    "arabicName": "ماهر المعيقلي",
+    "url": "https://backup.qurango.net/radio/maher",
+    "country": "Saudiya Arabistoni",
+    "category": "Haramayn",
+    "description": "Makkadagi Muqaddas Masjid imomining qiroatlari.",
+    "image": "/images/reciters/maher-almaikulai.webp",
+    "accent": "#0D7857"
+  },
+  {
+    "slug": "yasser-al-dosary",
+    "name": "Yosir ad-Dusariy",
+    "arabicName": "ياسر الدوسري",
+    "url": "https://backup.qurango.net/radio/yasser_aldosari",
+    "country": "Saudiya Arabistoni",
+    "category": "Haramayn",
+    "description": "Zamonamizning eng köp tinglanadigan qorilaridan birining taʼsirli qiroatlari.",
+    "image": "/images/reciters/yasser-al-dosary.webp",
+    "accent": "#2FBF8F"
+  },
+  {
+    "slug": "saad-al-ghamdi",
+    "name": "Saʼd al-Ğomdiy",
+    "arabicName": "سعد الغامدي",
+    "url": "https://backup.qurango.net/radio/saad_alghamdi",
+    "country": "Saudiya Arabistoni",
+    "category": "Qiroat",
+    "description": "Şayx Saʼd al-Ğomdiyning töliq qiroatlaridan uzluksiz oqim.",
+    "image": "/images/reciters/saad-al-ghamdi.webp",
+    "accent": "#7FB6A4"
+  },
+  {
+    "slug": "khalid-al-jalil",
+    "name": "Xolid al-Jalil",
+    "arabicName": "خالد الجليل",
+    "url": "https://backup.qurango.net/radio/khalid_aljileel",
+    "country": "Saudiya Arabistoni",
+    "category": "Qiroat",
+    "description": "Şayx Xolid al-Jalilning xuşuʼli qiroatlari.",
+    "image": "/images/reciters/khalid-al-galilee.webp",
+    "accent": "#D9B96A"
+  },
+  {
+    "slug": "ruqyah",
+    "name": "Ruqya radiosi",
+    "arabicName": "إذاعة الرقية الشرعية",
+    "url": "https://backup.qurango.net/radio/roqiah",
+    "country": "Xalqaro",
+    "category": "Ruqya",
+    "description": "Şariy ruqya — şifo uçun Qurʼon va sahih duoalar.",
+    "image": null,
+    "accent": "#C9A44A"
+  },
+  {
+    "slug": "al-baqarah",
+    "name": "Al-Baqara surasi",
+    "arabicName": "سورة البقرة",
+    "url": "https://backup.qurango.net/radio/albaqarah",
+    "country": "Xalqaro",
+    "category": "Qiroat",
+    "description": "Köplab qorilar tomonidan uzluksiz öqiladigan Al-Baqara surasi.",
+    "image": null,
+    "accent": "#0D7857"
+  },
+  {
+    "slug": "tafseer",
+    "name": "Qurʼon tafsiri",
+    "arabicName": "التفسير",
+    "url": "https://backup.qurango.net/radio/tafseer",
+    "country": "Xalqaro",
+    "category": "Tafsir",
+    "description": "Muqaddas Qurʼon maʼnolarini izohlaş va tafakkur qiliş.",
+    "image": null,
+    "accent": "#6FA8FF"
+  }
+]

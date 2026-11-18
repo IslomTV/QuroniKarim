@@ -1,0 +1,2282 @@
+[
+  {
+    "number": 1,
+    "slug": "al-fatihah",
+    "name": "Al-Fatihah",
+    "arabicName": "الفاتحة",
+    "englishName": "Oçuvçi",
+    "verses": 7,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 5,
+    "bismillah": false,
+    "juz": 1,
+    "hizb": 1,
+    "quarter": 1,
+    "pages": [
+      1,
+      1
+    ],
+    "mp3Name": "الفاتحة"
+  },
+  {
+    "number": 2,
+    "slug": "al-baqarah",
+    "name": "Al-Baqarah",
+    "arabicName": "البقرة",
+    "englishName": "Sigir",
+    "verses": 286,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 87,
+    "bismillah": true,
+    "juz": 1,
+    "hizb": 1,
+    "quarter": 1,
+    "pages": [
+      2,
+      49
+    ],
+    "mp3Name": "البقرة"
+  },
+  {
+    "number": 3,
+    "slug": "ali-'imran",
+    "name": "Ali 'Imran",
+    "arabicName": "آل عمران",
+    "englishName": "Imron oilasi",
+    "verses": 200,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 89,
+    "bismillah": true,
+    "juz": 3,
+    "hizb": 5,
+    "quarter": 20,
+    "pages": [
+      50,
+      76
+    ],
+    "mp3Name": "آل عمران"
+  },
+  {
+    "number": 4,
+    "slug": "an-nisa",
+    "name": "An-Nisa",
+    "arabicName": "النساء",
+    "englishName": "Ayollar",
+    "verses": 176,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 92,
+    "bismillah": true,
+    "juz": 4,
+    "hizb": 8,
+    "quarter": 31,
+    "pages": [
+      77,
+      106
+    ],
+    "mp3Name": "النساء"
+  },
+  {
+    "number": 5,
+    "slug": "al-maidah",
+    "name": "Al-Ma'idah",
+    "arabicName": "المائدة",
+    "englishName": "Dasturxon",
+    "verses": 120,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 112,
+    "bismillah": true,
+    "juz": 6,
+    "hizb": 11,
+    "quarter": 43,
+    "pages": [
+      106,
+      127
+    ],
+    "mp3Name": "المائدة"
+  },
+  {
+    "number": 6,
+    "slug": "al-an'am",
+    "name": "Al-An'am",
+    "arabicName": "الأنعام",
+    "englishName": "Çorva mollari",
+    "verses": 165,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 55,
+    "bismillah": true,
+    "juz": 7,
+    "hizb": 13,
+    "quarter": 51,
+    "pages": [
+      128,
+      150
+    ],
+    "mp3Name": "الأنعام"
+  },
+  {
+    "number": 7,
+    "slug": "al-a'raf",
+    "name": "Al-A'raf",
+    "arabicName": "الأعراف",
+    "englishName": "Aʼrof",
+    "verses": 206,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 39,
+    "bismillah": true,
+    "juz": 8,
+    "hizb": 16,
+    "quarter": 61,
+    "pages": [
+      151,
+      176
+    ],
+    "mp3Name": "الأعراف"
+  },
+  {
+    "number": 8,
+    "slug": "al-anfal",
+    "name": "Al-Anfal",
+    "arabicName": "الأنفال",
+    "englishName": "Öljalar",
+    "verses": 75,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 88,
+    "bismillah": true,
+    "juz": 9,
+    "hizb": 18,
+    "quarter": 71,
+    "pages": [
+      177,
+      186
+    ],
+    "mp3Name": "الأنفال"
+  },
+  {
+    "number": 9,
+    "slug": "at-tawbah",
+    "name": "At-Tawbah",
+    "arabicName": "التوبة",
+    "englishName": "Tavba",
+    "verses": 129,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 113,
+    "bismillah": false,
+    "juz": 10,
+    "hizb": 19,
+    "quarter": 75,
+    "pages": [
+      187,
+      207
+    ],
+    "mp3Name": "التوبة"
+  },
+  {
+    "number": 10,
+    "slug": "yunus",
+    "name": "Yunus",
+    "arabicName": "يونس",
+    "englishName": "Yunus",
+    "verses": 109,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 51,
+    "bismillah": true,
+    "juz": 11,
+    "hizb": 21,
+    "quarter": 83,
+    "pages": [
+      208,
+      221
+    ],
+    "mp3Name": "يونس"
+  },
+  {
+    "number": 11,
+    "slug": "hud",
+    "name": "Hud",
+    "arabicName": "هود",
+    "englishName": "Hud",
+    "verses": 123,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 52,
+    "bismillah": true,
+    "juz": 11,
+    "hizb": 22,
+    "quarter": 88,
+    "pages": [
+      221,
+      235
+    ],
+    "mp3Name": "هود"
+  },
+  {
+    "number": 12,
+    "slug": "yusuf",
+    "name": "Yusuf",
+    "arabicName": "يوسف",
+    "englishName": "Yusuf",
+    "verses": 111,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 53,
+    "bismillah": true,
+    "juz": 12,
+    "hizb": 24,
+    "quarter": 94,
+    "pages": [
+      235,
+      248
+    ],
+    "mp3Name": "يوسف"
+  },
+  {
+    "number": 13,
+    "slug": "ar-ra'd",
+    "name": "Ar-Ra'd",
+    "arabicName": "الرعد",
+    "englishName": "Momaqaldiroq",
+    "verses": 43,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 96,
+    "bismillah": true,
+    "juz": 13,
+    "hizb": 25,
+    "quarter": 99,
+    "pages": [
+      249,
+      255
+    ],
+    "mp3Name": "الرعد"
+  },
+  {
+    "number": 14,
+    "slug": "ibrahim",
+    "name": "Ibrahim",
+    "arabicName": "ابراهيم",
+    "englishName": "Ibrohim",
+    "verses": 52,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 72,
+    "bismillah": true,
+    "juz": 13,
+    "hizb": 26,
+    "quarter": 102,
+    "pages": [
+      255,
+      261
+    ],
+    "mp3Name": "إبراهيم"
+  },
+  {
+    "number": 15,
+    "slug": "al-hijr",
+    "name": "Al-Hijr",
+    "arabicName": "الحجر",
+    "englishName": "Hijr",
+    "verses": 99,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 54,
+    "bismillah": true,
+    "juz": 14,
+    "hizb": 27,
+    "quarter": 105,
+    "pages": [
+      262,
+      267
+    ],
+    "mp3Name": "الحجر"
+  },
+  {
+    "number": 16,
+    "slug": "an-nahl",
+    "name": "An-Nahl",
+    "arabicName": "النحل",
+    "englishName": "Asalarilar",
+    "verses": 128,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 70,
+    "bismillah": true,
+    "juz": 14,
+    "hizb": 27,
+    "quarter": 107,
+    "pages": [
+      267,
+      281
+    ],
+    "mp3Name": "النحل"
+  },
+  {
+    "number": 17,
+    "slug": "al-isra",
+    "name": "Al-Isra",
+    "arabicName": "الإسراء",
+    "englishName": "Tungi sayohat",
+    "verses": 111,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 50,
+    "bismillah": true,
+    "juz": 15,
+    "hizb": 29,
+    "quarter": 113,
+    "pages": [
+      282,
+      293
+    ],
+    "mp3Name": "الإسراء"
+  },
+  {
+    "number": 18,
+    "slug": "al-kahf",
+    "name": "Al-Kahf",
+    "arabicName": "الكهف",
+    "englishName": "Ğor",
+    "verses": 110,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 69,
+    "bismillah": true,
+    "juz": 15,
+    "hizb": 30,
+    "quarter": 117,
+    "pages": [
+      293,
+      304
+    ],
+    "mp3Name": "الكهف"
+  },
+  {
+    "number": 19,
+    "slug": "maryam",
+    "name": "Maryam",
+    "arabicName": "مريم",
+    "englishName": "Maryam",
+    "verses": 98,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 44,
+    "bismillah": true,
+    "juz": 16,
+    "hizb": 31,
+    "quarter": 122,
+    "pages": [
+      305,
+      312
+    ],
+    "mp3Name": "مريم"
+  },
+  {
+    "number": 20,
+    "slug": "taha",
+    "name": "Taha",
+    "arabicName": "طه",
+    "englishName": "To-Ho",
+    "verses": 135,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 45,
+    "bismillah": true,
+    "juz": 16,
+    "hizb": 32,
+    "quarter": 125,
+    "pages": [
+      312,
+      321
+    ],
+    "mp3Name": "طه"
+  },
+  {
+    "number": 21,
+    "slug": "al-anbiya",
+    "name": "Al-Anbya",
+    "arabicName": "الأنبياء",
+    "englishName": "Payğambarlar",
+    "verses": 112,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 73,
+    "bismillah": true,
+    "juz": 17,
+    "hizb": 33,
+    "quarter": 129,
+    "pages": [
+      322,
+      331
+    ],
+    "mp3Name": "الأنبياء"
+  },
+  {
+    "number": 22,
+    "slug": "al-hajj",
+    "name": "Al-Hajj",
+    "arabicName": "الحج",
+    "englishName": "Haj",
+    "verses": 78,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 103,
+    "bismillah": true,
+    "juz": 17,
+    "hizb": 34,
+    "quarter": 133,
+    "pages": [
+      332,
+      341
+    ],
+    "mp3Name": "الحج"
+  },
+  {
+    "number": 23,
+    "slug": "al-mu'minun",
+    "name": "Al-Mu'minun",
+    "arabicName": "المؤمنون",
+    "englishName": "Möminlar",
+    "verses": 118,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 74,
+    "bismillah": true,
+    "juz": 18,
+    "hizb": 35,
+    "quarter": 137,
+    "pages": [
+      342,
+      349
+    ],
+    "mp3Name": "المؤمنون"
+  },
+  {
+    "number": 24,
+    "slug": "an-nur",
+    "name": "An-Nur",
+    "arabicName": "النور",
+    "englishName": "Nur",
+    "verses": 64,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 102,
+    "bismillah": true,
+    "juz": 18,
+    "hizb": 35,
+    "quarter": 140,
+    "pages": [
+      350,
+      359
+    ],
+    "mp3Name": "النور"
+  },
+  {
+    "number": 25,
+    "slug": "al-furqan",
+    "name": "Al-Furqan",
+    "arabicName": "الفرقان",
+    "englishName": "Furqon",
+    "verses": 77,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 42,
+    "bismillah": true,
+    "juz": 18,
+    "hizb": 36,
+    "quarter": 144,
+    "pages": [
+      359,
+      366
+    ],
+    "mp3Name": "الفرقان"
+  },
+  {
+    "number": 26,
+    "slug": "ash-shu'ara",
+    "name": "Aş-Şu'ara",
+    "arabicName": "الشعراء",
+    "englishName": "Şoirlar",
+    "verses": 227,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 47,
+    "bismillah": true,
+    "juz": 19,
+    "hizb": 37,
+    "quarter": 147,
+    "pages": [
+      367,
+      376
+    ],
+    "mp3Name": "الشعراء"
+  },
+  {
+    "number": 27,
+    "slug": "an-naml",
+    "name": "An-Naml",
+    "arabicName": "النمل",
+    "englishName": "Çumoli",
+    "verses": 93,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 48,
+    "bismillah": true,
+    "juz": 19,
+    "hizb": 38,
+    "quarter": 151,
+    "pages": [
+      377,
+      385
+    ],
+    "mp3Name": "النمل"
+  },
+  {
+    "number": 28,
+    "slug": "al-qasas",
+    "name": "Al-Qasas",
+    "arabicName": "القصص",
+    "englishName": "Qissalar",
+    "verses": 88,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 49,
+    "bismillah": true,
+    "juz": 20,
+    "hizb": 39,
+    "quarter": 154,
+    "pages": [
+      385,
+      396
+    ],
+    "mp3Name": "القصص"
+  },
+  {
+    "number": 29,
+    "slug": "al-'ankabut",
+    "name": "Al-'Ankabut",
+    "arabicName": "العنكبوت",
+    "englishName": "Örgimçak",
+    "verses": 69,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 85,
+    "bismillah": true,
+    "juz": 20,
+    "hizb": 40,
+    "quarter": 159,
+    "pages": [
+      396,
+      404
+    ],
+    "mp3Name": "العنكبوت"
+  },
+  {
+    "number": 30,
+    "slug": "ar-rum",
+    "name": "Ar-Rum",
+    "arabicName": "الروم",
+    "englishName": "Rumliklar",
+    "verses": 60,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 84,
+    "bismillah": true,
+    "juz": 21,
+    "hizb": 41,
+    "quarter": 162,
+    "pages": [
+      404,
+      410
+    ],
+    "mp3Name": "الروم"
+  },
+  {
+    "number": 31,
+    "slug": "luqman",
+    "name": "Luqman",
+    "arabicName": "لقمان",
+    "englishName": "Luqmon",
+    "verses": 34,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 57,
+    "bismillah": true,
+    "juz": 21,
+    "hizb": 41,
+    "quarter": 164,
+    "pages": [
+      411,
+      414
+    ],
+    "mp3Name": "لقمان"
+  },
+  {
+    "number": 32,
+    "slug": "as-sajdah",
+    "name": "As-Sajdah",
+    "arabicName": "السجدة",
+    "englishName": "Sajda",
+    "verses": 30,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 75,
+    "bismillah": true,
+    "juz": 21,
+    "hizb": 42,
+    "quarter": 165,
+    "pages": [
+      415,
+      417
+    ],
+    "mp3Name": "السجدة"
+  },
+  {
+    "number": 33,
+    "slug": "al-ahzab",
+    "name": "Al-Ahzab",
+    "arabicName": "الأحزاب",
+    "englishName": "Ahzob",
+    "verses": 73,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 90,
+    "bismillah": true,
+    "juz": 21,
+    "hizb": 42,
+    "quarter": 167,
+    "pages": [
+      418,
+      427
+    ],
+    "mp3Name": "الأحزاب"
+  },
+  {
+    "number": 34,
+    "slug": "saba",
+    "name": "Saba",
+    "arabicName": "سبإ",
+    "englishName": "Saba",
+    "verses": 54,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 58,
+    "bismillah": true,
+    "juz": 22,
+    "hizb": 43,
+    "quarter": 171,
+    "pages": [
+      428,
+      434
+    ],
+    "mp3Name": "سبأ"
+  },
+  {
+    "number": 35,
+    "slug": "fatir",
+    "name": "Fatir",
+    "arabicName": "فاطر",
+    "englishName": "Yaratuvçi",
+    "verses": 45,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 43,
+    "bismillah": true,
+    "juz": 22,
+    "hizb": 44,
+    "quarter": 174,
+    "pages": [
+      434,
+      440
+    ],
+    "mp3Name": "فاطر"
+  },
+  {
+    "number": 36,
+    "slug": "ya-sin",
+    "name": "Ya-Sin",
+    "arabicName": "يس",
+    "englishName": "Yo-Sin",
+    "verses": 83,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 41,
+    "bismillah": true,
+    "juz": 22,
+    "hizb": 44,
+    "quarter": 176,
+    "pages": [
+      440,
+      445
+    ],
+    "mp3Name": "يس"
+  },
+  {
+    "number": 37,
+    "slug": "as-saffat",
+    "name": "As-Saffat",
+    "arabicName": "الصافات",
+    "englishName": "Saf tortganlar",
+    "verses": 182,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 56,
+    "bismillah": true,
+    "juz": 23,
+    "hizb": 45,
+    "quarter": 178,
+    "pages": [
+      446,
+      452
+    ],
+    "mp3Name": "الصافات"
+  },
+  {
+    "number": 38,
+    "slug": "sad",
+    "name": "Sad",
+    "arabicName": "ص",
+    "englishName": "Sod",
+    "verses": 88,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 38,
+    "bismillah": true,
+    "juz": 23,
+    "hizb": 46,
+    "quarter": 181,
+    "pages": [
+      453,
+      458
+    ],
+    "mp3Name": "ص"
+  },
+  {
+    "number": 39,
+    "slug": "az-zumar",
+    "name": "Az-Zumar",
+    "arabicName": "الزمر",
+    "englishName": "Zumar",
+    "verses": 75,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 59,
+    "bismillah": true,
+    "juz": 23,
+    "hizb": 46,
+    "quarter": 183,
+    "pages": [
+      458,
+      467
+    ],
+    "mp3Name": "الزمر"
+  },
+  {
+    "number": 40,
+    "slug": "ghafir",
+    "name": "Ghafir",
+    "arabicName": "غافر",
+    "englishName": "Ğofir",
+    "verses": 85,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 60,
+    "bismillah": true,
+    "juz": 24,
+    "hizb": 47,
+    "quarter": 187,
+    "pages": [
+      467,
+      476
+    ],
+    "mp3Name": "غافر"
+  },
+  {
+    "number": 41,
+    "slug": "fussilat",
+    "name": "Fussilat",
+    "arabicName": "فصلت",
+    "englishName": "Batafsil bayon qilingan",
+    "verses": 54,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 61,
+    "bismillah": true,
+    "juz": 24,
+    "hizb": 48,
+    "quarter": 190,
+    "pages": [
+      477,
+      482
+    ],
+    "mp3Name": "فصلت"
+  },
+  {
+    "number": 42,
+    "slug": "ash-shura",
+    "name": "Aş-Şuraa",
+    "arabicName": "الشورى",
+    "englishName": "Şuro",
+    "verses": 53,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 62,
+    "bismillah": true,
+    "juz": 25,
+    "hizb": 49,
+    "quarter": 193,
+    "pages": [
+      483,
+      489
+    ],
+    "mp3Name": "الشورى"
+  },
+  {
+    "number": 43,
+    "slug": "az-zukhruf",
+    "name": "Az-Zukhruf",
+    "arabicName": "الزخرف",
+    "englishName": "Ziynatlar",
+    "verses": 89,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 63,
+    "bismillah": true,
+    "juz": 25,
+    "hizb": 49,
+    "quarter": 196,
+    "pages": [
+      489,
+      495
+    ],
+    "mp3Name": "الزخرف"
+  },
+  {
+    "number": 44,
+    "slug": "ad-dukhan",
+    "name": "Ad-Dukhan",
+    "arabicName": "الدخان",
+    "englishName": "Tutun",
+    "verses": 59,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 64,
+    "bismillah": true,
+    "juz": 25,
+    "hizb": 50,
+    "quarter": 198,
+    "pages": [
+      496,
+      498
+    ],
+    "mp3Name": "الدّخان"
+  },
+  {
+    "number": 45,
+    "slug": "al-jathiyah",
+    "name": "Al-Jathiyah",
+    "arabicName": "الجاثية",
+    "englishName": "Tiz çökkanlar",
+    "verses": 37,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 65,
+    "bismillah": true,
+    "juz": 25,
+    "hizb": 50,
+    "quarter": 199,
+    "pages": [
+      499,
+      502
+    ],
+    "mp3Name": "الجاثية"
+  },
+  {
+    "number": 46,
+    "slug": "al-ahqaf",
+    "name": "Al-Ahqaf",
+    "arabicName": "الأحقاف",
+    "englishName": "Ahqof",
+    "verses": 35,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 66,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 51,
+    "quarter": 201,
+    "pages": [
+      502,
+      506
+    ],
+    "mp3Name": "الأحقاف"
+  },
+  {
+    "number": 47,
+    "slug": "muhammad",
+    "name": "Muhammad",
+    "arabicName": "محمد",
+    "englishName": "Muhammad",
+    "verses": 38,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 95,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 51,
+    "quarter": 202,
+    "pages": [
+      507,
+      510
+    ],
+    "mp3Name": "محمد"
+  },
+  {
+    "number": 48,
+    "slug": "al-fath",
+    "name": "Al-Fath",
+    "arabicName": "الفتح",
+    "englishName": "Fath",
+    "verses": 29,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 111,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 51,
+    "quarter": 204,
+    "pages": [
+      511,
+      515
+    ],
+    "mp3Name": "الفتح"
+  },
+  {
+    "number": 49,
+    "slug": "al-hujurat",
+    "name": "Al-Hujurat",
+    "arabicName": "الحجرات",
+    "englishName": "Hujralar",
+    "verses": 18,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 106,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 52,
+    "quarter": 206,
+    "pages": [
+      515,
+      517
+    ],
+    "mp3Name": "الحجرات"
+  },
+  {
+    "number": 50,
+    "slug": "qaf",
+    "name": "Qaf",
+    "arabicName": "ق",
+    "englishName": "Qof",
+    "verses": 45,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 34,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 52,
+    "quarter": 207,
+    "pages": [
+      518,
+      520
+    ],
+    "mp3Name": "ق"
+  },
+  {
+    "number": 51,
+    "slug": "adh-dhariyat",
+    "name": "Adh-Dhariyat",
+    "arabicName": "الذاريات",
+    "englishName": "Soçuvçi şamollar",
+    "verses": 60,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 67,
+    "bismillah": true,
+    "juz": 26,
+    "hizb": 52,
+    "quarter": 208,
+    "pages": [
+      520,
+      523
+    ],
+    "mp3Name": "الذاريات"
+  },
+  {
+    "number": 52,
+    "slug": "at-tur",
+    "name": "At-Tur",
+    "arabicName": "الطور",
+    "englishName": "Tur",
+    "verses": 49,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 76,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 53,
+    "quarter": 209,
+    "pages": [
+      523,
+      525
+    ],
+    "mp3Name": "الطور"
+  },
+  {
+    "number": 53,
+    "slug": "an-najm",
+    "name": "An-Najm",
+    "arabicName": "النجم",
+    "englishName": "Yulduz",
+    "verses": 62,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 23,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 53,
+    "quarter": 210,
+    "pages": [
+      526,
+      528
+    ],
+    "mp3Name": "النجم"
+  },
+  {
+    "number": 54,
+    "slug": "al-qamar",
+    "name": "Al-Qamar",
+    "arabicName": "القمر",
+    "englishName": "Oy",
+    "verses": 55,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 37,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 53,
+    "quarter": 211,
+    "pages": [
+      528,
+      531
+    ],
+    "mp3Name": "القمر"
+  },
+  {
+    "number": 55,
+    "slug": "ar-rahman",
+    "name": "Ar-Rahman",
+    "arabicName": "الرحمن",
+    "englishName": "Rahmon",
+    "verses": 78,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 97,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 54,
+    "quarter": 213,
+    "pages": [
+      531,
+      534
+    ],
+    "mp3Name": "الرحمن"
+  },
+  {
+    "number": 56,
+    "slug": "al-waqi'ah",
+    "name": "Al-Waqi'ah",
+    "arabicName": "الواقعة",
+    "englishName": "Vaqiʼa",
+    "verses": 96,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 46,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 54,
+    "quarter": 214,
+    "pages": [
+      534,
+      537
+    ],
+    "mp3Name": "الواقعة"
+  },
+  {
+    "number": 57,
+    "slug": "al-hadid",
+    "name": "Al-Hadid",
+    "arabicName": "الحديد",
+    "englishName": "Temir",
+    "verses": 29,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 94,
+    "bismillah": true,
+    "juz": 27,
+    "hizb": 54,
+    "quarter": 215,
+    "pages": [
+      537,
+      541
+    ],
+    "mp3Name": "الحديد"
+  },
+  {
+    "number": 58,
+    "slug": "al-mujadilah",
+    "name": "Al-Mujadila",
+    "arabicName": "المجادلة",
+    "englishName": "Munozara qiluvçi ayol",
+    "verses": 22,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 105,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 55,
+    "quarter": 217,
+    "pages": [
+      542,
+      545
+    ],
+    "mp3Name": "المجادلة"
+  },
+  {
+    "number": 59,
+    "slug": "al-hashr",
+    "name": "Al-Haşr",
+    "arabicName": "الحشر",
+    "englishName": "Haşr",
+    "verses": 24,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 101,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 55,
+    "quarter": 218,
+    "pages": [
+      545,
+      548
+    ],
+    "mp3Name": "الحشر"
+  },
+  {
+    "number": 60,
+    "slug": "al-mumtahanah",
+    "name": "Al-Mumtahanah",
+    "arabicName": "الممتحنة",
+    "englishName": "Sinovga tortilgan",
+    "verses": 13,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 91,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 55,
+    "quarter": 219,
+    "pages": [
+      549,
+      551
+    ],
+    "mp3Name": "الممتحنة"
+  },
+  {
+    "number": 61,
+    "slug": "as-saff",
+    "name": "As-Saf",
+    "arabicName": "الصف",
+    "englishName": "Saf",
+    "verses": 14,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 109,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 55,
+    "quarter": 220,
+    "pages": [
+      551,
+      552
+    ],
+    "mp3Name": "الصف"
+  },
+  {
+    "number": 62,
+    "slug": "al-jumu'ah",
+    "name": "Al-Jumu'ah",
+    "arabicName": "الجمعة",
+    "englishName": "Juma",
+    "verses": 11,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 110,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 56,
+    "quarter": 221,
+    "pages": [
+      553,
+      554
+    ],
+    "mp3Name": "الجمعة"
+  },
+  {
+    "number": 63,
+    "slug": "al-munafiqun",
+    "name": "Al-Munafiqun",
+    "arabicName": "المنافقون",
+    "englishName": "Munofiqlar",
+    "verses": 11,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 104,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 56,
+    "quarter": 221,
+    "pages": [
+      554,
+      555
+    ],
+    "mp3Name": "المنافقون"
+  },
+  {
+    "number": 64,
+    "slug": "at-taghabun",
+    "name": "At-Taghabun",
+    "arabicName": "التغابن",
+    "englishName": "Tağobun",
+    "verses": 18,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 108,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 56,
+    "quarter": 222,
+    "pages": [
+      556,
+      557
+    ],
+    "mp3Name": "التغابن"
+  },
+  {
+    "number": 65,
+    "slug": "at-talaq",
+    "name": "At-Talaq",
+    "arabicName": "الطلاق",
+    "englishName": "Taloq",
+    "verses": 12,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 99,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 56,
+    "quarter": 223,
+    "pages": [
+      558,
+      559
+    ],
+    "mp3Name": "الطلاق"
+  },
+  {
+    "number": 66,
+    "slug": "at-tahrim",
+    "name": "At-Tahrim",
+    "arabicName": "التحريم",
+    "englishName": "Tahrim",
+    "verses": 12,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 107,
+    "bismillah": true,
+    "juz": 28,
+    "hizb": 56,
+    "quarter": 224,
+    "pages": [
+      560,
+      561
+    ],
+    "mp3Name": "التحريم"
+  },
+  {
+    "number": 67,
+    "slug": "al-mulk",
+    "name": "Al-Mulk",
+    "arabicName": "الملك",
+    "englishName": "Mulk",
+    "verses": 30,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 77,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 57,
+    "quarter": 225,
+    "pages": [
+      562,
+      564
+    ],
+    "mp3Name": "الملك"
+  },
+  {
+    "number": 68,
+    "slug": "al-qalam",
+    "name": "Al-Qalam",
+    "arabicName": "القلم",
+    "englishName": "Qalam",
+    "verses": 52,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 2,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 57,
+    "quarter": 226,
+    "pages": [
+      564,
+      566
+    ],
+    "mp3Name": "القلم"
+  },
+  {
+    "number": 69,
+    "slug": "al-haqqah",
+    "name": "Al-Haqqah",
+    "arabicName": "الحاقة",
+    "englishName": "Haqqa",
+    "verses": 52,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 78,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 57,
+    "quarter": 227,
+    "pages": [
+      566,
+      568
+    ],
+    "mp3Name": "الحاقة"
+  },
+  {
+    "number": 70,
+    "slug": "al-ma'arij",
+    "name": "Al-Ma'arij",
+    "arabicName": "المعارج",
+    "englishName": "Maorij",
+    "verses": 44,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 79,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 57,
+    "quarter": 227,
+    "pages": [
+      568,
+      570
+    ],
+    "mp3Name": "المعارج"
+  },
+  {
+    "number": 71,
+    "slug": "nuh",
+    "name": "Nuh",
+    "arabicName": "نوح",
+    "englishName": "Nuh",
+    "verses": 28,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 71,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 57,
+    "quarter": 228,
+    "pages": [
+      570,
+      571
+    ],
+    "mp3Name": "نوح"
+  },
+  {
+    "number": 72,
+    "slug": "al-jinn",
+    "name": "Al-Jinn",
+    "arabicName": "الجن",
+    "englishName": "Jinlar",
+    "verses": 28,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 40,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 229,
+    "pages": [
+      572,
+      573
+    ],
+    "mp3Name": "الجن"
+  },
+  {
+    "number": 73,
+    "slug": "al-muzzammil",
+    "name": "Al-Muzzammil",
+    "arabicName": "المزمل",
+    "englishName": "Öranib olgan",
+    "verses": 20,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 3,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 229,
+    "pages": [
+      574,
+      575
+    ],
+    "mp3Name": "المزمل"
+  },
+  {
+    "number": 74,
+    "slug": "al-muddaththir",
+    "name": "Al-Muddaththir",
+    "arabicName": "المدثر",
+    "englishName": "Yopinib olgan",
+    "verses": 56,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 4,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 230,
+    "pages": [
+      575,
+      577
+    ],
+    "mp3Name": "المدثر"
+  },
+  {
+    "number": 75,
+    "slug": "al-qiyamah",
+    "name": "Al-Qiyamah",
+    "arabicName": "القيامة",
+    "englishName": "Qiyomat",
+    "verses": 40,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 31,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 231,
+    "pages": [
+      577,
+      578
+    ],
+    "mp3Name": "القيامة"
+  },
+  {
+    "number": 76,
+    "slug": "al-insan",
+    "name": "Al-Insan",
+    "arabicName": "الانسان",
+    "englishName": "Inson",
+    "verses": 31,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 98,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 231,
+    "pages": [
+      578,
+      580
+    ],
+    "mp3Name": "الإنسان"
+  },
+  {
+    "number": 77,
+    "slug": "al-mursalat",
+    "name": "Al-Mursalat",
+    "arabicName": "المرسلات",
+    "englishName": "Yuborilganlar",
+    "verses": 50,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 33,
+    "bismillah": true,
+    "juz": 29,
+    "hizb": 58,
+    "quarter": 232,
+    "pages": [
+      580,
+      581
+    ],
+    "mp3Name": "المرسلات"
+  },
+  {
+    "number": 78,
+    "slug": "an-naba",
+    "name": "An-Naba",
+    "arabicName": "النبإ",
+    "englishName": "Xabar",
+    "verses": 40,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 80,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 233,
+    "pages": [
+      582,
+      583
+    ],
+    "mp3Name": "النبأ"
+  },
+  {
+    "number": 79,
+    "slug": "an-nazi'at",
+    "name": "An-Nazi'at",
+    "arabicName": "النازعات",
+    "englishName": "Suğurib oluvçilar",
+    "verses": 46,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 81,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 233,
+    "pages": [
+      583,
+      584
+    ],
+    "mp3Name": "النازعات"
+  },
+  {
+    "number": 80,
+    "slug": "'abasa",
+    "name": "'Abasa",
+    "arabicName": "عبس",
+    "englishName": "Yuz burdi",
+    "verses": 42,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 24,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 234,
+    "pages": [
+      585,
+      585
+    ],
+    "mp3Name": "عبس"
+  },
+  {
+    "number": 81,
+    "slug": "at-takwir",
+    "name": "At-Takwir",
+    "arabicName": "التكوير",
+    "englishName": "Öraliş",
+    "verses": 29,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 7,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 234,
+    "pages": [
+      586,
+      586
+    ],
+    "mp3Name": "التكوير"
+  },
+  {
+    "number": 82,
+    "slug": "al-infitar",
+    "name": "Al-Infitar",
+    "arabicName": "الإنفطار",
+    "englishName": "Yoriliş",
+    "verses": 19,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 82,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 235,
+    "pages": [
+      587,
+      587
+    ],
+    "mp3Name": "الإنفطار"
+  },
+  {
+    "number": 83,
+    "slug": "al-mutaffifin",
+    "name": "Al-Mutaffifin",
+    "arabicName": "المطففين",
+    "englishName": "Ölçovda kamaytiruvçilar",
+    "verses": 36,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 86,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 235,
+    "pages": [
+      587,
+      589
+    ],
+    "mp3Name": "المطففين"
+  },
+  {
+    "number": 84,
+    "slug": "al-inshiqaq",
+    "name": "Al-Inşiqaq",
+    "arabicName": "الإنشقاق",
+    "englishName": "Böliniş",
+    "verses": 25,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 83,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 236,
+    "pages": [
+      589,
+      589
+    ],
+    "mp3Name": "الإنشقاق"
+  },
+  {
+    "number": 85,
+    "slug": "al-buruj",
+    "name": "Al-Buruj",
+    "arabicName": "البروج",
+    "englishName": "Burjlar",
+    "verses": 22,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 27,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 236,
+    "pages": [
+      590,
+      590
+    ],
+    "mp3Name": "البروج"
+  },
+  {
+    "number": 86,
+    "slug": "at-tariq",
+    "name": "At-Tariq",
+    "arabicName": "الطارق",
+    "englishName": "Tariq",
+    "verses": 17,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 36,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 59,
+    "quarter": 236,
+    "pages": [
+      591,
+      591
+    ],
+    "mp3Name": "الطارق"
+  },
+  {
+    "number": 87,
+    "slug": "al-a'la",
+    "name": "Al-A'la",
+    "arabicName": "الأعلى",
+    "englishName": "Eng oliy",
+    "verses": 19,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 8,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 237,
+    "pages": [
+      591,
+      592
+    ],
+    "mp3Name": "الأعلى"
+  },
+  {
+    "number": 88,
+    "slug": "al-ghashiyah",
+    "name": "Al-Ghaşiyah",
+    "arabicName": "الغاشية",
+    "englishName": "Qoplovçi",
+    "verses": 26,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 68,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 237,
+    "pages": [
+      592,
+      592
+    ],
+    "mp3Name": "الغاشية"
+  },
+  {
+    "number": 89,
+    "slug": "al-fajr",
+    "name": "Al-Fajr",
+    "arabicName": "الفجر",
+    "englishName": "Tong",
+    "verses": 30,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 10,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 237,
+    "pages": [
+      593,
+      594
+    ],
+    "mp3Name": "الفجر"
+  },
+  {
+    "number": 90,
+    "slug": "al-balad",
+    "name": "Al-Balad",
+    "arabicName": "البلد",
+    "englishName": "Şahar",
+    "verses": 20,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 35,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 238,
+    "pages": [
+      594,
+      594
+    ],
+    "mp3Name": "البلد"
+  },
+  {
+    "number": 91,
+    "slug": "ash-shams",
+    "name": "Aş-Şams",
+    "arabicName": "الشمس",
+    "englishName": "Quyoş",
+    "verses": 15,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 26,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 238,
+    "pages": [
+      595,
+      595
+    ],
+    "mp3Name": "الشمس"
+  },
+  {
+    "number": 92,
+    "slug": "al-layl",
+    "name": "Al-Layl",
+    "arabicName": "الليل",
+    "englishName": "Tun",
+    "verses": 21,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 9,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 238,
+    "pages": [
+      595,
+      596
+    ],
+    "mp3Name": "الليل"
+  },
+  {
+    "number": 93,
+    "slug": "ad-duhaa",
+    "name": "Ad-Duhaa",
+    "arabicName": "الضحى",
+    "englishName": "Çoşgoh",
+    "verses": 11,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 11,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 238,
+    "pages": [
+      596,
+      596
+    ],
+    "mp3Name": "الضحى"
+  },
+  {
+    "number": 94,
+    "slug": "ash-sharh",
+    "name": "Aş-Şarh",
+    "arabicName": "الشرح",
+    "englishName": "Kengaytiriş",
+    "verses": 8,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 12,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      596,
+      596
+    ],
+    "mp3Name": "الشرح"
+  },
+  {
+    "number": 95,
+    "slug": "at-tin",
+    "name": "At-Tin",
+    "arabicName": "التين",
+    "englishName": "Anjir",
+    "verses": 8,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 28,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      597,
+      597
+    ],
+    "mp3Name": "التين"
+  },
+  {
+    "number": 96,
+    "slug": "al-'alaq",
+    "name": "Al-'Alaq",
+    "arabicName": "العلق",
+    "englishName": "Laxta",
+    "verses": 19,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 1,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      597,
+      597
+    ],
+    "mp3Name": "العلق"
+  },
+  {
+    "number": 97,
+    "slug": "al-qadr",
+    "name": "Al-Qadr",
+    "arabicName": "القدر",
+    "englishName": "Qadr",
+    "verses": 5,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 25,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      598,
+      598
+    ],
+    "mp3Name": "القدر"
+  },
+  {
+    "number": 98,
+    "slug": "al-bayyinah",
+    "name": "Al-Bayyinah",
+    "arabicName": "البينة",
+    "englishName": "Aniq dalil",
+    "verses": 8,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 100,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      598,
+      599
+    ],
+    "mp3Name": "البينة"
+  },
+  {
+    "number": 99,
+    "slug": "az-zalzalah",
+    "name": "Az-Zalzalah",
+    "arabicName": "الزلزلة",
+    "englishName": "Zilzila",
+    "verses": 8,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 93,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      599,
+      599
+    ],
+    "mp3Name": "الزلزلة"
+  },
+  {
+    "number": 100,
+    "slug": "al-'adiyat",
+    "name": "Al-'Adiyat",
+    "arabicName": "العاديات",
+    "englishName": "Yuguruvçi otlar",
+    "verses": 11,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 14,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 239,
+    "pages": [
+      599,
+      600
+    ],
+    "mp3Name": "العاديات"
+  },
+  {
+    "number": 101,
+    "slug": "al-qari'ah",
+    "name": "Al-Qari'ah",
+    "arabicName": "القارعة",
+    "englishName": "Qoriʼa",
+    "verses": 11,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 30,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      600,
+      600
+    ],
+    "mp3Name": "القارعة"
+  },
+  {
+    "number": 102,
+    "slug": "at-takathur",
+    "name": "At-Takathur",
+    "arabicName": "التكاثر",
+    "englishName": "Köpaytirişga oşiqiş",
+    "verses": 8,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 16,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      600,
+      600
+    ],
+    "mp3Name": "التكاثر"
+  },
+  {
+    "number": 103,
+    "slug": "al-'asr",
+    "name": "Al-'Asr",
+    "arabicName": "العصر",
+    "englishName": "Asr",
+    "verses": 3,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 13,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      601,
+      601
+    ],
+    "mp3Name": "العصر"
+  },
+  {
+    "number": 104,
+    "slug": "al-humazah",
+    "name": "Al-Humazah",
+    "arabicName": "الهمزة",
+    "englishName": "Ğiybatçi",
+    "verses": 9,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 32,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      601,
+      601
+    ],
+    "mp3Name": "الهمزة"
+  },
+  {
+    "number": 105,
+    "slug": "al-fil",
+    "name": "Al-Fil",
+    "arabicName": "الفيل",
+    "englishName": "Fil",
+    "verses": 5,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 19,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      601,
+      601
+    ],
+    "mp3Name": "الفيل"
+  },
+  {
+    "number": 106,
+    "slug": "quraysh",
+    "name": "Qurayş",
+    "arabicName": "قريش",
+    "englishName": "Qurayş",
+    "verses": 4,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 29,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      602,
+      602
+    ],
+    "mp3Name": "قريش"
+  },
+  {
+    "number": 107,
+    "slug": "al-ma'un",
+    "name": "Al-Ma'un",
+    "arabicName": "الماعون",
+    "englishName": "Yaxşilik",
+    "verses": 7,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 17,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      602,
+      602
+    ],
+    "mp3Name": "الماعون"
+  },
+  {
+    "number": 108,
+    "slug": "al-kawthar",
+    "name": "Al-Kawthar",
+    "arabicName": "الكوثر",
+    "englishName": "Kavsar",
+    "verses": 3,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 15,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      602,
+      602
+    ],
+    "mp3Name": "الكوثر"
+  },
+  {
+    "number": 109,
+    "slug": "al-kafirun",
+    "name": "Al-Kafirun",
+    "arabicName": "الكافرون",
+    "englishName": "Kofirlar",
+    "verses": 6,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 18,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      603,
+      603
+    ],
+    "mp3Name": "الكافرون"
+  },
+  {
+    "number": 110,
+    "slug": "an-nasr",
+    "name": "An-Nasr",
+    "arabicName": "النصر",
+    "englishName": "Ğalaba",
+    "verses": 3,
+    "revelation": "Madaniy",
+    "revelationPlace": "madinah",
+    "revelationOrder": 114,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      603,
+      603
+    ],
+    "mp3Name": "النصر"
+  },
+  {
+    "number": 111,
+    "slug": "al-masad",
+    "name": "Al-Masad",
+    "arabicName": "المسد",
+    "englishName": "Masad",
+    "verses": 5,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 6,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      603,
+      603
+    ],
+    "mp3Name": "المسد"
+  },
+  {
+    "number": 112,
+    "slug": "al-ikhlas",
+    "name": "Al-Ikhlas",
+    "arabicName": "الإخلاص",
+    "englishName": "Ixlos",
+    "verses": 4,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 22,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      604,
+      604
+    ],
+    "mp3Name": "الإخلاص"
+  },
+  {
+    "number": 113,
+    "slug": "al-falaq",
+    "name": "Al-Falaq",
+    "arabicName": "الفلق",
+    "englishName": "Tong",
+    "verses": 5,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 20,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      604,
+      604
+    ],
+    "mp3Name": "الفلق"
+  },
+  {
+    "number": 114,
+    "slug": "an-nas",
+    "name": "An-Nas",
+    "arabicName": "الناس",
+    "englishName": "Odamlar",
+    "verses": 6,
+    "revelation": "Makkiy",
+    "revelationPlace": "makkah",
+    "revelationOrder": 21,
+    "bismillah": true,
+    "juz": 30,
+    "hizb": 60,
+    "quarter": 240,
+    "pages": [
+      604,
+      604
+    ],
+    "mp3Name": "الناس"
+  }
+]
