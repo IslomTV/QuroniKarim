@@ -5,9 +5,10 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
   Bell,
+  BookOpen,
   ChevronDown,
   Globe,
-  Headphones,
+  GraduationCap,
   Menu,
   Moon,
   Pause,
@@ -16,6 +17,7 @@ import {
   Search,
   Sun,
   UserRound,
+  Volume2,
   X,
 } from "lucide-react";
 import { useEffect, useRef, useState, type FormEvent } from "react";
@@ -34,6 +36,12 @@ const LANGUAGE_OPTIONS = [
   { code: "RU", label: "Rus tili", native: "Русский", soon: true },
   { code: "TR", label: "Turk tili", native: "Türkçe", soon: true },
 ];
+
+const NAV_ICONS = {
+  listen: { icon: Volume2, color: "text-gold" },
+  read: { icon: BookOpen, color: "text-[#3d9b7a]" },
+  memorize: { icon: GraduationCap, color: "text-[#2f9b76]" },
+} as const;
 
 type User = { name: string; email?: string };
 
@@ -144,44 +152,48 @@ export function Header({ onAirTrack, onAirListeners }: { onAirTrack: Track; onAi
           <Logo className="flex-none" />
 
           <nav className="nav-capsule hidden xl:flex" aria-label="Asosiy">
-            {Object.entries(NAV).map(([key, menu]) => (
-              <div
-                key={key}
-                className="relative"
-                onMouseEnter={() => setOpenMenu(key)}
-                onMouseLeave={() => setOpenMenu((value) => (value === key ? null : value))}
-              >
-                <button
-                  type="button"
-                  className="nav-capsule-link"
-                  aria-expanded={openMenu === key}
-                  onClick={() => setOpenMenu(openMenu === key ? null : key)}
+            {Object.entries(NAV).map(([key, menu]) => {
+              const { icon: Icon, color } = NAV_ICONS[key as keyof typeof NAV_ICONS];
+              return (
+                <div
+                  key={key}
+                  className="relative"
+                  onMouseEnter={() => setOpenMenu(key)}
+                  onMouseLeave={() => setOpenMenu((value) => (value === key ? null : value))}
                 >
-                  {menu.label}
-                  <ChevronDown className={`h-3.5 w-3.5 transition-transform ${openMenu === key ? "rotate-180" : ""}`} />
-                </button>
-                {openMenu === key && (
-                  <div className="panel fade-in absolute left-0 top-full z-50 mt-2 w-[330px] overflow-hidden p-2">
-                    {menu.items.map((item) => (
-                      <Link
-                        key={item.href}
-                        href={item.href}
-                        onClick={() => setOpenMenu(null)}
-                        className="group flex items-start gap-3 rounded-lg px-3 py-2.5 transition-colors hover:bg-white/[0.045]"
-                      >
-                        <span className="mt-1 flex h-7 w-7 flex-none items-center justify-center rounded-md border border-gold/20 bg-gold/[0.06] text-gold">
-                          <Headphones className="h-3.5 w-3.5" />
-                        </span>
-                        <span>
-                          <span className="block text-[13px] font-medium text-ink group-hover:text-gold-bright">{item.label}</span>
-                          <span className="mt-0.5 block text-[11.5px] leading-snug text-muted">{item.desc}</span>
-                        </span>
-                      </Link>
-                    ))}
-                  </div>
-                )}
-              </div>
-            ))}
+                  <button
+                    type="button"
+                    className="nav-capsule-link"
+                    aria-expanded={openMenu === key}
+                    onClick={() => setOpenMenu(openMenu === key ? null : key)}
+                  >
+                    <Icon className={`h-4 w-4 flex-none ${color}`} aria-hidden="true" />
+                    {menu.label}
+                    <ChevronDown className={`h-3.5 w-3.5 transition-transform ${openMenu === key ? "rotate-180" : ""}`} />
+                  </button>
+                  {openMenu === key && (
+                    <div className="panel fade-in absolute left-0 top-full z-50 mt-2 w-[330px] overflow-hidden p-2">
+                      {menu.items.map((item) => (
+                        <Link
+                          key={item.href}
+                          href={item.href}
+                          onClick={() => setOpenMenu(null)}
+                          className="group flex items-start gap-3 rounded-lg px-3 py-2.5 transition-colors hover:bg-white/[0.045]"
+                        >
+                          <span className="mt-1 flex h-7 w-7 flex-none items-center justify-center rounded-md border border-gold/20 bg-gold/[0.06] text-gold">
+                            <Icon className="h-3.5 w-3.5" />
+                          </span>
+                          <span>
+                            <span className="block text-[13px] font-medium text-ink group-hover:text-gold-bright">{item.label}</span>
+                            <span className="mt-0.5 block text-[11.5px] leading-snug text-muted">{item.desc}</span>
+                          </span>
+                        </Link>
+                      ))}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
             <Link href="/azkar" className={`nav-capsule-link ${activeLink("/azkar") ? "text-gold" : ""}`}>
               Azklar
             </Link>
@@ -225,8 +237,10 @@ export function Header({ onAirTrack, onAirListeners }: { onAirTrack: Track; onAi
                 onClick={() => setOpenMenu(openMenu === "language" ? null : "language")}
                 className="nav-capsule-icon gap-1 px-2 text-[11px] font-semibold"
                 aria-label="Til"
+                aria-expanded={openMenu === "language"}
               >
                 <Globe className="h-[15px] w-[15px]" /> {language}
+                <ChevronDown className={`h-3 w-3 transition-transform ${openMenu === "language" ? "rotate-180" : ""}`} />
               </button>
               {openMenu === "language" && (
                 <div className="panel fade-in absolute right-0 top-full z-50 mt-3 w-[240px] p-2">
@@ -354,24 +368,30 @@ export function Header({ onAirTrack, onAirListeners }: { onAirTrack: Track; onAi
                 <Search className="h-4 w-4" /> Qorilar va suralarni qidiriş…
               </button>
               <div className="space-y-5">
-                {Object.entries(NAV).map(([key, menu]) => (
-                  <div key={key}>
-                    <p className="eyebrow mb-2">{menu.label}</p>
-                    <div className="grid grid-cols-1 gap-1 sm:grid-cols-2">
-                      {menu.items.map((item) => (
-                        <Link
-                          key={item.href}
-                          href={item.href}
-                          onClick={() => setMobileOpen(false)}
-                          className="rounded-lg border border-line/60 bg-panel/40 px-3 py-2.5"
-                        >
-                          <span className="block text-[13px] font-medium">{item.label}</span>
-                          <span className="mt-0.5 block text-[11px] text-muted">{item.desc}</span>
-                        </Link>
-                      ))}
+                {Object.entries(NAV).map(([key, menu]) => {
+                  const { icon: Icon, color } = NAV_ICONS[key as keyof typeof NAV_ICONS];
+                  return (
+                    <div key={key}>
+                      <p className="eyebrow mb-2 flex items-center gap-2">
+                        <Icon className={`h-3.5 w-3.5 ${color}`} aria-hidden="true" />
+                        {menu.label}
+                      </p>
+                      <div className="grid grid-cols-1 gap-1 sm:grid-cols-2">
+                        {menu.items.map((item) => (
+                          <Link
+                            key={item.href}
+                            href={item.href}
+                            onClick={() => setMobileOpen(false)}
+                            className="rounded-lg border border-line/60 bg-panel/40 px-3 py-2.5"
+                          >
+                            <span className="block text-[13px] font-medium">{item.label}</span>
+                            <span className="mt-0.5 block text-[11px] text-muted">{item.desc}</span>
+                          </Link>
+                        ))}
+                      </div>
                     </div>
-                  </div>
-                ))}
+                  );
+                })}
                 <div>
                   <p className="eyebrow mb-2">Boşqa</p>
                   <div className="grid grid-cols-2 gap-2">
