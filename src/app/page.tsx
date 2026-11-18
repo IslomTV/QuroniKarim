@@ -176,7 +176,6 @@ export default function HomePage() {
                 <span className="text-green-bright">Quroni</span>{" "}
                 <span className="text-gold-bright">Karim</span>
               </span>
-              <span className="-mt-1 font-arabic text-[15px] text-gold/80" dir="rtl">الطريق إلى القرآن</span>
             </Link>
           </div>
 

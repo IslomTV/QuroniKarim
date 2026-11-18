@@ -31,14 +31,6 @@ export function Logo({
           <span className="text-green-bright">Quroni</span>{" "}
           <span className="text-gold-bright">Karim</span>
         </span>
-        <span
-          className={`block font-arabic text-gold/80 ${
-            variant === "hero" ? "mt-1 text-lg" : "mt-1 text-[9px]"
-          }`}
-          dir="rtl"
-        >
-          الطريق إلى القرآن
-        </span>
       </span>
     </span>
   );
