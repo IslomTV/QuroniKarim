@@ -10,6 +10,7 @@ import {
   useState,
   type ReactNode,
 } from "react";
+import { withBasePath } from "@/lib/base-path";
 import type { Track } from "@/lib/types";
 
 export type RepeatMode = "off" | "all" | "one";
@@ -189,8 +190,14 @@ export function PlayerProvider({
         artist: current.reciterName,
         album: current.subtitle,
         artwork: current.art
-          ? [{ src: current.art, sizes: "512x512", type: "image/webp" }]
-          : [{ src: "/images/logo-icon.png", sizes: "512x423", type: "image/png" }],
+          ? [{ src: withBasePath(current.art), sizes: "512x512", type: "image/webp" }]
+          : [
+              {
+                src: withBasePath("/images/logo-icon.png"),
+                sizes: "512x423",
+                type: "image/png",
+              },
+            ],
       });
       navigator.mediaSession.setActionHandler("play", () => {
         void audioRef.current?.play();

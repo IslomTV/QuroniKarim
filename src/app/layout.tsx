@@ -7,10 +7,14 @@ import { Header } from "@/components/site/Header";
 import { PrayerBar } from "@/components/site/PrayerBar";
 import { ThemeScript } from "@/components/site/ThemeScript";
 import { getDefaultTrack, getRadio, radioToTrack } from "@/lib/content";
+import { BASE_PATH, withBasePath } from "@/lib/base-path";
 import { SITE } from "@/lib/constants";
 
+const siteOrigin = process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://way2quran.com";
+const siteUrl = `${siteOrigin}${BASE_PATH}`;
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://way2quran.com"),
+  metadataBase: new URL(siteOrigin),
   title: {
     default: SITE.title,
     template: "%s · Way2Quran",
@@ -29,9 +33,16 @@ export const metadata: Metadata = {
   openGraph: {
     title: SITE.title,
     description: SITE.description,
-    url: "https://way2quran.com",
+    url: siteUrl,
     siteName: SITE.name,
-    images: [{ url: "/images/hero-opt.jpg", width: 1600, height: 1067, alt: "Way2Quran" }],
+    images: [
+      {
+        url: withBasePath("/images/hero-opt.jpg"),
+        width: 1600,
+        height: 1067,
+        alt: "Way2Quran",
+      },
+    ],
     locale: "uz_UZ",
     type: "website",
   },
@@ -39,10 +50,10 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: SITE.title,
     description: SITE.description,
-    images: ["/images/hero-opt.jpg"],
+    images: [withBasePath("/images/hero-opt.jpg")],
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: withBasePath("/favicon.ico"),
   },
 };
 

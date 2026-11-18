@@ -54,6 +54,7 @@ import {
   reciters as allReciters,
 } from "@/lib/content";
 import { STYLE_LABELS } from "@/lib/constants";
+import { withBasePath } from "@/lib/base-path";
 import { formatNumber } from "@/lib/format";
 import type { Track } from "@/lib/types";
 
@@ -203,7 +204,7 @@ export default function HomePage() {
             </Link>
           </div>
 
-          <form action="/search" className="relative mt-6 w-full max-w-[560px]">
+          <form action={withBasePath("/search")} className="relative mt-6 w-full max-w-[560px]">
             <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-2" />
             <input
               name="q"
