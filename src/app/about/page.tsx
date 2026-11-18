@@ -548,23 +548,23 @@ export default function AboutPage() {
             </p>
             <div id="contact" className="mt-4 grid scroll-mt-28 gap-2 sm:grid-cols-2">
               <a
-                href="mailto:hello@way2quran.com"
+                href="mailto:hello@quronikarim.com"
                 className="flex items-center gap-3 rounded-lg border border-line bg-black/15 px-3.5 py-3 transition-colors hover:border-gold/35"
               >
                 <Mail className="h-4 w-4 flex-none text-gold" />
                 <span className="min-w-0">
                   <span className="block text-[9px] uppercase tracking-[0.16em] text-muted-2">Umumiy</span>
-                  <span className="block truncate text-[11.5px] text-ink">hello@way2quran.com</span>
+                  <span className="block truncate text-[11.5px] text-ink">hello@quronikarim.com</span>
                 </span>
               </a>
               <a
-                href="mailto:contribute@way2quran.com"
+                href="mailto:contribute@quronikarim.com"
                 className="flex items-center gap-3 rounded-lg border border-line bg-black/15 px-3.5 py-3 transition-colors hover:border-gold/35"
               >
                 <BookMarked className="h-4 w-4 flex-none text-gold" />
                 <span className="min-w-0">
                   <span className="block text-[9px] uppercase tracking-[0.16em] text-muted-2">Hissalar</span>
-                  <span className="block truncate text-[11.5px] text-ink">contribute@way2quran.com</span>
+                  <span className="block truncate text-[11.5px] text-ink">contribute@quronikarim.com</span>
                 </span>
               </a>
             </div>

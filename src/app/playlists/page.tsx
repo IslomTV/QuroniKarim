@@ -137,7 +137,7 @@ export default function PlaylistsPage() {
         <SectionHeading
           eyebrow="Tanlangan pleylistlar"
           title="Mavsum, kayfiyat va ehtiyoj uçun töplamlar"
-          subtitle="Way2Quran muharrirlari tomonidan tuzilgan qisqa töplamlar va töliq xatmalar."
+          subtitle="Quroni Karim muharrirlari tomonidan tuzilgan qisqa töplamlar va töliq xatmalar."
         />
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {details

@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * Mirror the Way2Quran audio catalog into a local folder.
+ * Mirror the Quroni Karim audio catalog into a local folder.
  *
  *   node scripts/sync-media.mjs                     # full mirror -> public/media
  *   node scripts/sync-media.mjs --dry-run --limit 10

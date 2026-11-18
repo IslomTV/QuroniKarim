@@ -24,7 +24,7 @@ import {
 export const metadata: Metadata = {
   title: "Qidiruv",
   description:
-    "Way2Quran'dan qori, sura, pleylist yoki radio stansiyasini qidiring — söng bir bosişda tinglang, öqing yoki yuklab oling.",
+    "Quroni Karim'dan qori, sura, pleylist yoki radio stansiyasini qidiring — söng bir bosişda tinglang, öqing yoki yuklab oling.",
 };
 
 function SearchFallback() {

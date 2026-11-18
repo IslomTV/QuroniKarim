@@ -59,7 +59,7 @@ import { formatNumber } from "@/lib/format";
 import type { Track } from "@/lib/types";
 
 export const metadata = {
-  title: "Way2Quran — Muqaddas Qurʼon tilovatlari",
+  title: "Quroni Karim — Muqaddas Qurʼon tilovatlari",
   description:
     "Islom olamining turli burçaklaridan qorilar tilovat qilgan Muqaddas Qurʼonni tinglang va yuklab oling. Töliq muşafarlar, keçayu kunduz Qurʼon radiosi va çiroyli muşaf öqiş bölimi.",
 };
@@ -168,14 +168,13 @@ export default function HomePage() {
           </span>
 
           <div className="mt-5">
-            <Link href="/" aria-label="Way2Quran boş sahifasi" className="inline-flex flex-col items-center gap-3">
+            <Link href="/" aria-label="Quroni Karim boş sahifasi" className="inline-flex flex-col items-center gap-3">
               <span className="relative h-[74px] w-[90px] drop-shadow-[0_10px_35px_rgba(13,120,87,0.45)] sm:h-[84px] sm:w-[102px]">
                 <Image src="/images/logo-icon.png" alt="" fill sizes="110px" priority className="object-contain" />
               </span>
               <span className="font-display text-[42px] font-bold leading-none tracking-tight sm:text-[54px]">
-                <span className="text-green-bright">Way</span>
-                <span className="text-gold">2</span>
-                <span className="text-gold-bright">Quran</span>
+                <span className="text-green-bright">Quroni</span>{" "}
+                <span className="text-gold-bright">Karim</span>
               </span>
               <span className="-mt-1 font-arabic text-[15px] text-gold/80" dir="rtl">الطريق إلى القرآن</span>
             </Link>
@@ -454,7 +453,7 @@ export default function HomePage() {
               Tilovatni Ummat bilan ulaşing
             </h2>
             <p className="mx-auto mt-3 max-w-[560px] text-[13px] leading-relaxed text-muted">
-              Way2Quranʼda hali yöq tilovatingiz bormi? Uni qöşing — har bir taklif naşr etilişidan oldin körib çiqiladi.
+              Quroni Karimʼda hali yöq tilovatingiz bormi? Uni qöşing — har bir taklif naşr etilişidan oldin körib çiqiladi.
             </p>
             <Link href="/about#contribute" className="btn btn-green mt-6 px-7">
               Tilovat qöşiş <ArrowRight className="h-4 w-4" />
@@ -473,7 +472,7 @@ export default function HomePage() {
         <SectionHeading
           eyebrow="TAYYORLANMOQDA"
           title="Biz nima qurmoqdamiz"
-          subtitle="Way2Quran ösişda davom etmoqda — keyingi rejalar barça ekranlarda."
+          subtitle="Quroni Karim ösişda davom etmoqda — keyingi rejalar barça ekranlarda."
           align="center"
         />
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">

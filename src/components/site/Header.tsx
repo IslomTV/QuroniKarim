@@ -429,7 +429,7 @@ export function Header({ onAirTrack, onAirListeners }: { onAirTrack: Track; onAi
               </span>
               <div>
                 <p className="eyebrow text-[9px]">Xuş kelibsiz</p>
-                <h2 className="display text-2xl">Way2Quranʼga kiriş</h2>
+                <h2 className="display text-2xl">Quroni Karimʼga kiriş</h2>
               </div>
             </div>
             <p className="text-[12.5px] leading-relaxed text-muted">

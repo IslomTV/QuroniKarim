@@ -17,7 +17,7 @@ import { formatNumber } from "@/lib/format";
 export const metadata: Metadata = {
   title: "Qorilar",
   description:
-    "Way2Quran'dagi barça qorilarni köring — musulmon dunyosining 150 ovozi, rivoyat, uslub va mamlakat böyiça tartiblangan.",
+    "Quroni Karim'dagi barça qorilarni köring — musulmon dunyosining 150 ovozi, rivoyat, uslub va mamlakat böyiça tartiblangan.",
 };
 
 function DirectoryFallback() {
@@ -59,7 +59,7 @@ export default function RecitersPage() {
             Musulmon dunyosining {formatNumber(stats.reciters)} qori
           </h1>
           <p className="mt-2 max-w-[720px] text-[13px] leading-relaxed text-muted">
-            Way2Quranʼdagi barça qorilar — rivoyat, uslub va mamlakat böyiça tartiblangan. Qori sahifasini oçiş uçun ismini bosing.
+            Quroni Karimʼdagi barça qorilar — rivoyat, uslub va mamlakat böyiça tartiblangan. Qori sahifasini oçiş uçun ismini bosing.
           </p>
 
           <div className="mt-5 grid grid-cols-3 gap-2">

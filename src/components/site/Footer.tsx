@@ -92,7 +92,7 @@ export function Footer() {
 
         <div className="flex flex-col gap-3 border-t border-line py-5 text-[11px] text-muted-2 sm:flex-row sm:items-center sm:justify-between">
           <p>
-            Mualliflik huquqi © 2026 Way2Quran. Qurʼon va qorilarga hurmat sifatida yaratilgan.
+            Mualliflik huquqi © 2026 Quroni Karim. Qurʼon va qorilarga hurmat sifatida yaratilgan.
           </p>
           <div className="flex flex-wrap items-center gap-4">
             <Link href="/about#privacy" className="hover:text-gold">Maxfiylik siyosati</Link>

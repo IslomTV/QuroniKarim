@@ -1,9 +1,9 @@
 export const SITE = {
-  name: "Way2Quran",
-  title: "Way2Quran: Islom olamidan Qurʼon tilovatlari",
+  name: "Quroni Karim",
+  title: "Quroni Karim: Islom olamidan Qurʼon tilovatlari",
   description:
     "Islom olamining turli burçaklaridan qorilar tilovat qilgan Muqaddas Qurʼonni tinglang va yuklab oling. Töliq muşafarlar, keçayu kunduz Qurʼon radiosi, barça ön qiroat va çiroyli muşaf öqiş bölimi.",
-  url: "https://way2quran.clone",
+  url: "https://islomtv.github.io/QuroniKarim",
   // Set NEXT_PUBLIC_MEDIA_BASE=/media/ to serve a fully local mirror.
   mediaBase: process.env.NEXT_PUBLIC_MEDIA_BASE || "https://media.way2quran.com/",
 };

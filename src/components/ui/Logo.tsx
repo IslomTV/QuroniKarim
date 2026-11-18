@@ -19,7 +19,7 @@ export function Logo({
       >
         <Image
           src="/images/logo-icon.png"
-          alt="Way2Quran"
+          alt="Quroni Karim"
           fill
           sizes={`${iconSize}px`}
           className="object-contain"
@@ -28,9 +28,8 @@ export function Logo({
       </span>
       <span className={variant === "hero" ? "" : "leading-none"}>
         <span className={`block font-display font-bold tracking-tight ${variant === "hero" ? "text-[46px] sm:text-[58px]" : "text-[17px]"}`}>
-          <span className="text-green-bright">Way</span>
-          <span className="text-gold">2</span>
-          <span className="text-gold-bright">Quran</span>
+          <span className="text-green-bright">Quroni</span>{" "}
+          <span className="text-gold-bright">Karim</span>
         </span>
         <span
           className={`block font-arabic text-gold/80 ${
@@ -46,7 +45,7 @@ export function Logo({
 
   if (!href) return content;
   return (
-    <Link href={href} aria-label="Way2Quran boş sahifasi" className="inline-flex">
+    <Link href={href} aria-label="Quroni Karim boş sahifasi" className="inline-flex">
       {content}
     </Link>
   );

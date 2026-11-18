@@ -10,14 +10,14 @@ import { getDefaultTrack, getRadio, radioToTrack } from "@/lib/content";
 import { BASE_PATH, withBasePath } from "@/lib/base-path";
 import { SITE } from "@/lib/constants";
 
-const siteOrigin = process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://way2quran.com";
+const siteOrigin = process.env.NEXT_PUBLIC_SITE_ORIGIN ?? "https://islomtv.github.io";
 const siteUrl = `${siteOrigin}${BASE_PATH}`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteOrigin),
   title: {
     default: SITE.title,
-    template: "%s · Way2Quran",
+    template: "%s · Quroni Karim",
   },
   description: SITE.description,
   keywords: [
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "qorilar",
     "qiroat",
     "mushaf",
-    "Way2Quran",
+    "Quroni Karim",
   ],
   openGraph: {
     title: SITE.title,
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
         url: withBasePath("/images/hero-opt.jpg"),
         width: 1600,
         height: 1067,
-        alt: "Way2Quran",
+        alt: "Quroni Karim",
       },
     ],
     locale: "uz_UZ",
