@@ -482,25 +482,27 @@ body {
   color: var(--gold);
 }
 
-.input {
-  width: 100%;
-  border-radius: 999px;
-  border: 1px solid var(--line);
-  background: color-mix(in srgb, var(--bg-2) 82%, transparent);
-  color: var(--text);
-  padding: 12px 18px;
-  font-size: 14px;
-  outline: none;
-  transition:
-    border-color 150ms ease,
-    box-shadow 150ms ease;
-}
-.input::placeholder {
-  color: var(--muted-2);
-}
-.input:focus {
-  border-color: var(--border-strong);
-  box-shadow: 0 0 0 3px rgba(201, 164, 74, 0.09);
+@layer components {
+  .input {
+    width: 100%;
+    border-radius: 999px;
+    border: 1px solid var(--line);
+    background: color-mix(in srgb, var(--bg-2) 82%, transparent);
+    color: var(--text);
+    padding: 12px 18px;
+    font-size: 14px;
+    outline: none;
+    transition:
+      border-color 150ms ease,
+      box-shadow 150ms ease;
+  }
+  .input::placeholder {
+    color: var(--muted-2);
+  }
+  .input:focus {
+    border-color: var(--border-strong);
+    box-shadow: 0 0 0 3px rgba(201, 164, 74, 0.09);
+  }
 }
 .select {
   appearance: none;

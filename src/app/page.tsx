@@ -203,7 +203,7 @@ export default function HomePage() {
           </div>
 
           <form action={withBasePath("/search")} className="relative mt-6 w-full max-w-[560px]">
-            <Search className="pointer-events-none absolute left-4 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-2" />
+            <Search className="pointer-events-none absolute left-4 top-1/2 z-10 h-4 w-4 -translate-y-1/2 text-muted-2" />
             <input
               name="q"
               className="input border-gold/20 bg-black/35 py-3.5 pl-11 pr-24 text-[13px] backdrop-blur-md"
