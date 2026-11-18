@@ -516,7 +516,8 @@ export default function HomePage() {
                       <Image src="/images/logo-icon.png" alt="" fill sizes="32px" className="object-contain" />
                     </span>
                     <p className="mt-0.5 font-display text-[15px] font-bold">
-                      <span className="text-green-bright">Way</span><span className="text-gold">2</span><span className="text-gold-bright">Quran</span>
+                      <span className="text-green-bright">Quroni</span>{" "}
+                      <span className="text-gold-bright">Karim</span>
                     </p>
                     <p className="mt-1 text-center text-[6.5px] leading-tight text-white/70">
                       Tinglaş uçun tanlangan qorilar tomonidan Muqaddas Qurʼon
