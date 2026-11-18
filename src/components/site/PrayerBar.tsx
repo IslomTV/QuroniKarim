@@ -4,10 +4,47 @@ import { Clock, MapPin } from "lucide-react";
 import { useEffect, useState } from "react";
 import { PRAYER_TIMES } from "@/lib/constants";
 
+const TASHKENT_OFFSET_MS = 5 * 60 * 60 * 1000;
+const WEEKDAYS = ["yakshanba", "dushanba", "seshanba", "chorshanba", "payshanba", "juma", "shanba"];
+const MONTHS = ["yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avgust", "sentabr", "oktabr", "noyabr", "dekabr"];
+const HIJRI_MONTHS = [
+  "Muharram",
+  "Safar",
+  "Rabiul avval",
+  "Rabiul soniy",
+  "Jumadus avval",
+  "Jumadus soni",
+  "Rajab",
+  "Shaban",
+  "Ramazon",
+  "Shavvol",
+  "Zulqada",
+  "Zulhijja",
+];
+
 function timeLabel(minutes: number): string {
   const hour24 = Math.floor(minutes / 60) % 24;
   const minute = minutes % 60;
   return `${String(hour24).padStart(2, "0")}:${String(minute).padStart(2, "0")}`;
+}
+
+// Hijri month names are mapped manually because browsers fall back to English
+// for the Uzbek locale's Islamic calendar.
+function hijriLabel(date: Date): string {
+  const parts = new Intl.DateTimeFormat("en-US-u-ca-islamic-umalqura", {
+    timeZone: "Asia/Tashkent",
+    day: "numeric",
+    month: "numeric",
+  }).formatToParts(date);
+  const day = Number(parts.find((part) => part.type === "day")?.value ?? 0);
+  const month = Number(parts.find((part) => part.type === "month")?.value ?? 0);
+  return `${day}-${HIJRI_MONTHS[month - 1] ?? ""}`;
+}
+
+// Tashkent is UTC+5 all year, so shifting the timestamp keeps the bar accurate
+// even when the visitor's device is in another time zone.
+function tashkentDate(date: Date): Date {
+  return new Date(date.getTime() + TASHKENT_OFFSET_MS);
 }
 
 export function PrayerBar() {
@@ -19,7 +56,8 @@ export function PrayerBar() {
     return () => window.clearInterval(timer);
   }, []);
 
-  const minutesNow = now ? now.getHours() * 60 + now.getMinutes() : null;
+  const tashkent = now ? tashkentDate(now) : null;
+  const minutesNow = tashkent ? tashkent.getUTCHours() * 60 + tashkent.getUTCMinutes() : null;
   let activeIndex = -1;
   if (minutesNow != null) {
     PRAYER_TIMES.forEach((prayer, index) => {
@@ -33,12 +71,10 @@ export function PrayerBar() {
     : nextIndex >= 0
       ? next.minutes - minutesNow
       : 24 * 60 - minutesNow + PRAYER_TIMES[0].minutes;
-  const dateLabel = now
-    ? now.toLocaleDateString("uz-UZ", { weekday: "short", month: "short", day: "numeric" })
+  const dateLabel = tashkent
+    ? `${tashkent.getUTCDate()}-${MONTHS[tashkent.getUTCMonth()]}, ${WEEKDAYS[tashkent.getUTCDay()]}`
     : "";
-  const hijri = now
-    ? new Intl.DateTimeFormat("uz-UZ-u-ca-islamic", { day: "numeric", month: "long" }).format(now)
-    : "";
+  const hijri = now ? hijriLabel(now) : "";
 
   return (
     <div className="relative border-b border-line bg-[color:var(--bg-2)]/70 backdrop-blur-md">
@@ -46,7 +82,7 @@ export function PrayerBar() {
         <div className="flex flex-none items-center gap-2 pr-3">
           <MapPin className="h-4 w-4 text-gold" />
           <div>
-            <p className="text-[12px] font-semibold leading-tight">Nyu-York</p>
+            <p className="text-[12px] font-semibold leading-tight">Toshkent</p>
             <p className="text-[10px] leading-tight text-muted-2">
               {dateLabel || "—"} {hijri ? `· ${hijri}` : ""}
             </p>
