@@ -8,16 +8,7 @@ export const SITE = {
   mediaBase: process.env.NEXT_PUBLIC_MEDIA_BASE || "https://media.way2quran.com/",
 };
 
-// Tashkent prayer times for 18 November 2026, sourced from
-// https://namozvaqti.uz/shahar/toshkent
-export const PRAYER_TIMES = [
-  { name: "Bomdod", time: "05:52", minutes: 5 * 60 + 52 },
-  { name: "Quyoş çiqişi", time: "07:15", minutes: 7 * 60 + 15 },
-  { name: "Peşin", time: "12:13", minutes: 12 * 60 + 13 },
-  { name: "Asr", time: "15:20", minutes: 15 * 60 + 20 },
-  { name: "Şom", time: "17:03", minutes: 17 * 60 + 3 },
-  { name: "Xufton", time: "18:20", minutes: 18 * 60 + 20 },
-];
+export const PRAYER_LOCATION = "Toshkent";
 
 export const NAV = {
   listen: {

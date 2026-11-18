@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "media:sync": "node scripts/sync-media.mjs"
+    "media:sync": "node scripts/sync-media.mjs",
+    "prayer:sync": "node scripts/fetch-prayer-times.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.74.0",
